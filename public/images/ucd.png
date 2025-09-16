@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html><head>
+   <meta charset="UTF-8">
+   <title>UCD - Error 404: Page not found</title>
+
+<style>
+
+img {
+   float: left;
+}
+
+#error {
+   font-size: 36px;
+   color: #002f5e;
+   margin: 30px;
+   float: left;
+}
+
+#main {
+   font-size: 20px;
+   clear: left;
+   text-align: centre;
+   margin: 40px;
+}
+
+</style>
+</head><body>
+<a href="/"><img src="/t4cms/ucdmaincore_logo.png"
+   alt="UCD logo"></a>
+<div id="error">Error 404: Page Not Found</div>
+<div id="main">
+<p>
+The requested url /t4cms/ucd_logo.png was not found on this server. The error may
+be due to a broken link however if you typed the URL please check
+that you did so correctly.
+</p>
+
+<p>If you're sure it's not a typo, we suggest you try to <a href="/">
+navigate from the UCD homepage</a> or <a href="http://search.ucd.ie">
+search for the page you're looking for.</a></p>
+</div>
+</body></html>

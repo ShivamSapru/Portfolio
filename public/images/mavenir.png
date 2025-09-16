@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+<html lang="en-US" >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+		Page not found - Mavenir    </title>
+
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://www.mavenir.com/xmlrpc.php">
+    
+        <link rel="stylesheet" href="https://www.mavenir.com/wp-content/uploads/dsmp-assets/theme.css" media="all" type="text/css">
+    
+	<meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v25.8 (Yoast SEO v25.9) - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Mavenir" />
+	<meta property="og:site_name" content="Mavenir" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.mavenir.com/#website","url":"https://www.mavenir.com/","name":"Mavenir","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.mavenir.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="preload"  href='https://www.mavenir.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.1' as="style" onload="this.onload=null;this.rel='stylesheet'"  />
+<noscript><link rel='stylesheet'  href='https://www.mavenir.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.1' type='text/css' media='all' />
+</noscript><link rel="preload"  href='https://www.mavenir.com/wp-includes/css/dist/components/style.min.css?ver=6.8.2' as="style" onload="this.onload=null;this.rel='stylesheet'"  />
+<noscript><link rel='stylesheet'  href='https://www.mavenir.com/wp-includes/css/dist/components/style.min.css?ver=6.8.2' type='text/css' media='all' />
+</noscript><link rel="preload"  href='https://www.mavenir.com/wp-content/mu-plugins/vendor/wpex/godaddy-launch/includes/Dependencies/GoDaddy/Styles/build/latest.css?ver=2.0.2' as="style" onload="this.onload=null;this.rel='stylesheet'"  />
+<noscript><link rel='stylesheet'  href='https://www.mavenir.com/wp-content/mu-plugins/vendor/wpex/godaddy-launch/includes/Dependencies/GoDaddy/Styles/build/latest.css?ver=2.0.2' type='text/css' media='all' />
+</noscript><link rel="preload"  href='https://www.mavenir.com/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.5.21' as="style" onload="this.onload=null;this.rel='stylesheet'"  />
+<noscript><link rel='stylesheet'  href='https://www.mavenir.com/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.5.21' type='text/css' media='all' />
+</noscript><link rel="preload"  href='https://www.mavenir.com/wp-content/plugins/tablepress/css/build/default.css?ver=3.2.1' as="style" onload="this.onload=null;this.rel='stylesheet'"  />
+<noscript><link rel='stylesheet'  href='https://www.mavenir.com/wp-content/plugins/tablepress/css/build/default.css?ver=3.2.1' type='text/css' media='all' />
+</noscript><link rel="preload"  href='//www.mavenir.com/wp-content/uploads/pum/pum-site-styles.css?generated=1756385659&#038;ver=1.20.5' as="style" onload="this.onload=null;this.rel='stylesheet'"  />
+<noscript><link rel='stylesheet'  href='//www.mavenir.com/wp-content/uploads/pum/pum-site-styles.css?generated=1756385659&#038;ver=1.20.5' type='text/css' media='all' />
+</noscript><link rel='stylesheet' id='site-critical-css' href='https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/_dist/css/critical.css?ver=4208779407' type='text/css' media='all' />
+<link rel="preload"  href='https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/_dist/css/main.css?ver=4129641335' as="style" onload="this.onload=null;this.rel='stylesheet'"  />
+<noscript><link rel='stylesheet'  href='https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/_dist/css/main.css?ver=4129641335' type='text/css' media='all' />
+</noscript><link rel="preload"  href='https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/vendors/aos/aos.css?ver=3075086601' as="style" onload="this.onload=null;this.rel='stylesheet'"  />
+<noscript><link rel='stylesheet'  href='https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/vendors/aos/aos.css?ver=3075086601' type='text/css' media='all' />
+</noscript><link rel="preload"  href='https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/vendors/swiper/swiper-bundle.min.css?ver=2384773861' as="style" onload="this.onload=null;this.rel='stylesheet'"  />
+<noscript><link rel='stylesheet'  href='https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/vendors/swiper/swiper-bundle.min.css?ver=2384773861' type='text/css' media='all' />
+</noscript><link rel="preload"  href='https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/vendors/floatbox/floatbox.css?ver=3733081204' as="style" onload="this.onload=null;this.rel='stylesheet'"  />
+<noscript><link rel='stylesheet'  href='https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/vendors/floatbox/floatbox.css?ver=3733081204' type='text/css' media='all' />
+</noscript><script type="text/javascript" id="addtoany-core-js-before">
+/* <![CDATA[ */
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+a2a_config.icon_color="#0a7ac2";
+/* ]]> */
+</script>
+<script type="text/javascript" defer defer src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="text/javascript" id="jquery-core-js-extra">
+/* <![CDATA[ */
+var ds = {"ajax_url":"https:\/\/www.mavenir.com\/wp-admin\/admin-ajax.php","query":"{\"error\":\"404\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"all\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.mavenir.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.mavenir.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" defer defer src="https://www.mavenir.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/vendors/modernizr-custom.js" id="modernizr-webp-js"></script>
+<link rel="https://api.w.org/" href="https://www.mavenir.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mavenir.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.2" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-56LR37M');</script>
+<!-- End Google Tag Manager --><link rel="icon" href="https://www.mavenir.com/wp-content/uploads/2022/12/cropped-fav-mav-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.mavenir.com/wp-content/uploads/2022/12/cropped-fav-mav-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.mavenir.com/wp-content/uploads/2022/12/cropped-fav-mav-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.mavenir.com/wp-content/uploads/2022/12/cropped-fav-mav-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.pum-theme-lightbox .pum-content + .pum-close {
+    border: none!important;
+	  outline: none!important;
+}
+
+/* .bottom-offset {
+    margin-bottom: -77px!important;
+    position: relative;
+    z-index: 2;
+} */
+
+ .m-banner .side-menu {
+       width: 150px!important;
+}
+
+@media (max-width: 479px){
+.gb-xl {
+        padding-bottom: 0px!important;
+    }
+		.mainport{
+		margin-top:40px!important;
+			}
+	.mdruseP{
+	font-size:32px!important;
+	line-height:42px!important;
+	margin-top: 15px!important;
+  margin-left: -20px!important;
+  }	
+.mdruseS{
+font-size:32px!important;
+	margin-top: -35px!important;
+	line-height:42px!important;
+   }	
+	.l-content-1-v2 .l-rcbl__grid {
+    padding-bottom: 20px;
+	  padding-top:2px;
+}
+	.l-rcbl__grid{
+		margin-top:-45px;
+	}
+
+ .l-content-1-v2 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-top: -20px;
+}
+		
+ .l-content-1-v2 .l-rcbl__grid {
+    padding-bottom: 30px;
+	 
+} 
+
+.l-content-1-v2 {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: -2px;
+	
+}
+		.a2a_dd{
+  margin-top: -28px!important;
+}
+}		</style>
+		</head>
+<body class="error404 wp-theme-digitalexpress_2 fixed-header">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-56LR37M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->        <div class="svg-sprite"><svg width="0" height="0" style="position:absolute"><symbol viewBox="0 0 12.428 24.24" id="arrow" xmlns="http://www.w3.org/2000/svg"><path data-name="Path 3380" d="M0 0l12.428 11.911L0 24.24v-6.533l5.631-5.8L0 7z"/></symbol><symbol viewBox="0 0 25.809 20.49" id="arrow-orange-right" xmlns="http://www.w3.org/2000/svg"><path data-name="Path 3341" d="M0 5.703h15.564v-5.7l10.244 10.244-10.244 10.246v-6.117H0z" fill="#e55b2b"/></symbol><symbol viewBox="0 0 512 512" id="calendar" xmlns="http://www.w3.org/2000/svg"><circle cx="386" cy="210" r="20"/><path d="M432 40h-26V20c0-11.046-8.954-20-20-20s-20 8.954-20 20v20h-91V20c0-11.046-8.954-20-20-20s-20 8.954-20 20v20h-90V20c0-11.046-8.954-20-20-20s-20 8.954-20 20v20H80C35.888 40 0 75.888 0 120v312c0 44.112 35.888 80 80 80h153c11.046 0 20-8.954 20-20s-8.954-20-20-20H80c-22.056 0-40-17.944-40-40V120c0-22.056 17.944-40 40-40h25v20c0 11.046 8.954 20 20 20s20-8.954 20-20V80h90v20c0 11.046 8.954 20 20 20s20-8.954 20-20V80h91v20c0 11.046 8.954 20 20 20s20-8.954 20-20V80h26c22.056 0 40 17.944 40 40v114c0 11.046 8.954 20 20 20s20-8.954 20-20V120c0-44.112-35.888-80-80-80z"/><path d="M391 270c-66.72 0-121 54.28-121 121s54.28 121 121 121 121-54.28 121-121-54.28-121-121-121zm0 202c-44.663 0-81-36.336-81-81s36.337-81 81-81 81 36.336 81 81-36.337 81-81 81z"/><path d="M420 371h-9v-21c0-11.046-8.954-20-20-20s-20 8.954-20 20v41c0 11.046 8.954 20 20 20h29c11.046 0 20-8.954 20-20s-8.954-20-20-20z"/><circle cx="299" cy="210" r="20"/><circle cx="212" cy="297" r="20"/><circle cx="125" cy="210" r="20"/><circle cx="125" cy="297" r="20"/><circle cx="125" cy="384" r="20"/><circle cx="212" cy="384" r="20"/><circle cx="212" cy="210" r="20"/></symbol><symbol fill="none" viewBox="0 0 20 20" id="cta-sticky-arrow" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M15.434 2.674H2.617V0H20v17.383h-2.674V4.564L1.89 20 0 18.108 15.434 2.674z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 60 70" id="document-pdf" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M59.25 17.2L42.85.7 41.1 0H2.5L0 2.5V30h5V5h30v17.5l2.5 2.5H55v5h5V19l-.75-1.8zM40 20V5l15 15H40zM2.5 35L0 37.5v30L2.5 70h55l2.5-2.5v-30L57.5 35h-55zM55 60v5H5V40h50v20zm-40-5h-1.6v5H10V45h5.3c3.75 0 5.65 1.8 5.65 5a4.7 4.7 0 01-1.6 3.6A6.65 6.65 0 0115 55zm-.3-7.25h-1.3v4.65h1.3c1.8 0 2.7-.8 2.7-2.35s-.9-2.3-2.7-2.3zM35 57.9a7.4 7.4 0 002.2-5.6c0-5-2.65-7.3-8-7.3h-5.3v15h5.3a8 8 0 005.8-2.1zm-7.75-.65v-9.5h1.65A4.7 4.7 0 0132.4 49a4.55 4.55 0 011.25 3.35 5 5 0 01-1.25 3.6 4.7 4.7 0 01-3.45 1.3h-1.7zM49.5 54.2h-4.85V60h-3.4V45h8.7v2.75h-5.3v3.7h4.85v2.75z" fill="#fff"/></symbol><symbol fill="none" viewBox="0 0 20 18" id="event-icon" xmlns="http://www.w3.org/2000/svg"><path d="M17.333 1.182h-1.128V.667a.667.667 0 00-1.333 0v.515h-2.359V.667a.667.667 0 10-1.333 0v.515H8.82V.667a.667.667 0 10-1.333 0v.515H5.128V.667a.667.667 0 10-1.333 0v.515H2.667A2.67 2.67 0 000 3.848v10.667a2.67 2.67 0 002.667 2.667h14.666A2.67 2.67 0 0020 14.515V3.848a2.67 2.67 0 00-2.667-2.666zm1.334 13.333a1.334 1.334 0 01-1.334 1.333H2.667a1.335 1.335 0 01-1.334-1.333V6.188h17.334v8.327zm0-9.66H1.333V3.848a1.335 1.335 0 011.334-1.333h1.128v.515a.667.667 0 001.333 0v-.515h2.359v.515a.667.667 0 001.333 0v-.515h2.36v.515a.667.667 0 101.333 0v-.515h2.359v.515a.667.667 0 001.333 0v-.515h1.128a1.335 1.335 0 011.334 1.333v1.007z" fill="currentColor"/><path d="M4.268 10.046a1 1 0 100-2 1 1 0 000 2zM8.09 10.046a1 1 0 100-2 1 1 0 000 2zM11.91 10.046a1 1 0 100-2 1 1 0 000 2zM15.733 10.046a1 1 0 100-2 1 1 0 000 2zM4.268 13.991a1 1 0 100-2 1 1 0 000 2zM8.09 13.991a1 1 0 100-2 1 1 0 000 2zM11.91 13.991a1 1 0 100-2 1 1 0 000 2zM15.733 13.991a1 1 0 100-2 1 1 0 000 2z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 30 30" id="hover-arrow" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M20.434 7.674H7.617V5H25v17.383h-2.674V9.564L6.89 25 5 23.108 20.434 7.674z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 24 17" id="icon-filters" xmlns="http://www.w3.org/2000/svg"><path fill="#3D3D3D" d="M0 4h24v2.25H0zM0 11.5h24v2.25H0z"/><circle cx="16.125" cy="4.375" r="3.375" fill="#3D3D3D" stroke="#fff" stroke-width="2"/><circle cx="7.125" cy="12.625" r="3.375" fill="#3D3D3D" stroke="#fff" stroke-width="2"/></symbol><symbol viewBox="0 0 104 104" id="lib-icon-2" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M41.6 75.4L72.8 52 41.6 28.6v46.8zM52 0C23.4 0 0 23.4 0 52s23.4 52 52 52 52-23.4 52-52S80.6 0 52 0zm0 93.6c-22.88 0-41.6-18.72-41.6-41.6 0-22.88 18.72-41.6 41.6-41.6 22.88 0 41.6 18.72 41.6 41.6 0 22.88-18.72 41.6-41.6 41.6z" fill="#fff"/></symbol><symbol viewBox="0 0 30 29" id="lib-icon-3" xmlns="http://www.w3.org/2000/svg"><path d="M1.542 28.414c.788.78 2.068.78 2.858 0l10.648-10.56L25.6 28.406c.788.79 2.068.79 2.856 0a2.03 2.03 0 000-2.864L17.92 15.004l10.476-10.39a1.987 1.987 0 000-2.828 2.032 2.032 0 00-2.856 0L15.078 12.162 4.46 1.542a2.017 2.017 0 00-2.856 0 2.03 2.03 0 000 2.864L12.206 15.01 1.544 25.584c-.79.782-.79 2.05-.002 2.83z" fill="#fff"/></symbol><symbol fill="none" viewBox="0 0 15 16" id="lib-icon-arrow1" xmlns="http://www.w3.org/2000/svg"><path opacity=".5" d="M9.668 15.418h-.174l5.3-7.708L10.457.002H.822l8.846 15.416z" fill="currentColor"/><path d="M10.462 0h-.004l4.422 7.708-4.423 7.708h-8.84L10.461 0z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 13 16" id="lib-icon-arrow2" xmlns="http://www.w3.org/2000/svg"><path d="M12.823 8.284L.953 15.898c-.236.186-.344.11-.24-.169l4.883-7.276c.104-.28.103-.732-.002-1.011L.714.272C.61-.009.719-.085.956.1l11.866 7.512c.238.184.239.485.002.67z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 18 24" id="lib-icon-arrow3" xmlns="http://www.w3.org/2000/svg"><path d="M16.752 11.168a1 1 0 010 1.664L1.555 22.963A1 1 0 010 22.131V1.87a1 1 0 011.555-.833l15.197 10.132z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 9 14" id="lib-icon-arrow4" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.172 6.707L.879 1.414 2.293 0 9 6.707l-6.707 6.707L.879 12l5.293-5.293z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 12 10" id="lib-icon-arrow5" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.293 0L5.879 1.414l3.293 3.293L5.879 8l1.414 1.414L12 4.707 7.293 0zm-5 0L.879 1.414l3.293 3.293L.879 8l1.414 1.414L7 4.707 2.293 0z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 16 16" id="lib-icon-arrow6" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 0a8 8 0 110 16A8 8 0 018 0zm0 2a6 6 0 100 12A6 6 0 008 2zM4 9h4.586l-1.293 1.293 1.414 1.414L12.414 8 8.707 4.293 7.293 5.707 8.586 7H4v2z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 26 36" id="lib-icon-arrow7" xmlns="http://www.w3.org/2000/svg"><path d="M25.518 18c0 7.39-3.544 13.941-9.006 18 4.343-4.484 7.056-10.892 7.056-18 0-7.108-2.71-13.516-7.05-18a22.382 22.382 0 019 18z" fill="currentColor"/><path d="M16.511 17.998A19.9 19.9 0 018.506 34c3.86-3.986 6.274-9.68 6.274-16.002 0-6.32-2.412-12.011-6.268-15.998a19.9 19.9 0 018 15.998zm-10.007 0C6.504 23.336 4.14 28.068.5 31c2.894-3.237 4.704-7.865 4.704-13.002C5.204 12.861 3.397 8.238.503 5c3.637 2.932 6.001 7.664 6.001 12.998z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 16 12" id="lib-icon-envelop" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M2 0h12a2 2 0 012 2v8a2 2 0 01-2 2H2a2 2 0 01-2-2V2a2 2 0 012-2zm0 5v5h12V4.894L8 8 2 5zm0-2l6 2.988L14 3V2H2v1z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 12 2" id="lib-icon-minus" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 2V0h12v2H0z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 16 16" id="lib-icon-phone" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.61 8.388c-.541-.542-.989-1.127-1.226-1.602a1.801 1.801 0 01-.148-.38l.48-.48c.105-.106.156-.157.222-.226a4.45 4.45 0 00.356-.416c.457-.617.627-1.288.086-1.893C6.354 1.956 5.664 1.07 5.22.631c-.912-.9-2.4-.78-3.191 0-.383.377-.513.507-.905.905C-1.167 3.83.2 8.571 3.812 12.186c3.612 3.616 8.353 4.984 10.652 2.684.36-.347.67-.656.913-.914.772-.816.889-2.24-.006-3.169-.425-.442-1.271-1.099-2.768-2.17-.548-.485-1.188-.38-1.757-.006-.256.168-.436.332-.776.672l-.48.48a1.799 1.799 0 01-.38-.148c-.473-.237-1.059-.685-1.6-1.227zm3.278 2.905l.596-.597c.102-.102.182-.18.249-.242 1.207.87 1.913 1.423 2.198 1.72.097.1.08.318-.006.408-.22.233-.508.521-.862.862-1.305 1.305-4.902.267-7.837-2.67-2.936-2.94-3.974-6.538-2.682-7.83.39-.396.513-.52.889-.889.06-.059.305-.078.384 0 .308.304.885 1.039 1.728 2.208a10.2 10.2 0 01-.243.25l-.596.595C3.56 6.255 4.47 8.074 6.196 9.802c1.725 1.727 3.545 2.638 4.692 1.49z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 12 15" id="lib-icon-pin" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.97 14.08L6 15l1.03-.92C10.323 11.149 12 8.543 12 6.104 12 2.64 9.343 0 6 0S0 2.64 0 6.103c0 2.44 1.678 5.045 4.97 7.978zM6 2c2.24 0 4 1.748 4 4.103 0 1.67-1.298 3.744-4 6.214-2.702-2.47-4-4.544-4-6.214C2 3.748 3.76 2 6 2zm0 1a3 3 0 110 6 3 3 0 010-6zM5 6a1 1 0 112 0 1 1 0 01-2 0z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 12 12" id="lib-icon-plus" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M7 5h5v2H7v5H5V7H0V5h5V0h2v5z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 14 14" id="lib-icon-search" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8.618 10.032a5.5 5.5 0 111.414-1.414l3.675 3.675-1.414 1.414-3.675-3.675zM5.5 9a3.5 3.5 0 100-7 3.5 3.5 0 000 7z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 12 12" id="lib-icon-x" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M5.707 7.121l-4.293 4.293L0 10l4.293-4.293L0 1.414 1.414 0l4.293 4.293L10 0l1.414 1.414-4.293 4.293L11.414 10 10 11.414 5.707 7.121z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 19 19" id="lib-ln-icon" xmlns="http://www.w3.org/2000/svg"><path d="M19 11.649V19h-4.072v-6.859c0-1.723-.59-2.899-2.063-2.899-1.126 0-1.795.793-2.09 1.56-.107.273-.135.655-.135 1.039V19H6.566s.055-11.617 0-12.82h4.074v1.817c-.009.014-.02.028-.027.042h.027v-.042c.54-.872 1.507-2.118 3.67-2.118 2.68 0 4.69 1.832 4.69 5.77zM2.305 0C.912 0 0 .957 0 2.215 0 3.445.885 4.43 2.251 4.43h.027c1.42 0 2.304-.986 2.304-2.216C4.556.957 3.7 0 2.305 0zM.242 19h4.072V6.18H.242V19z" fill="currentColor"/></symbol><symbol viewBox="0 0 19.584 19.584" id="mail" xmlns="http://www.w3.org/2000/svg"><path data-name="Path 6" d="M17.964 6.448a1.607 1.607 0 00-.769-1.37L9.792.806l-7.4 4.272a1.614 1.614 0 00-.78 1.37v8.058a1.624 1.624 0 001.636 1.612h13.088a1.624 1.624 0 001.636-1.612l-.008-8.06zm-8.172 4.03L3.035 6.315l6.757-3.9 6.757 3.9z" fill="currentColor"/><path data-name="Path 7" d="M0 0h19.584v19.584H0z" fill="none"/></symbol><symbol fill="none" viewBox="0 0 14 20" id="map-place" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 7c0-3.87 3.13-7 7-7s7 3.13 7 7c0 4.17-4.42 9.92-6.23 12.11-.4.48-1.13.48-1.53 0C4.42 16.92 0 11.17 0 7zm4.5 0a2.5 2.5 0 005 0 2.5 2.5 0 00-5 0z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 38 41" id="paper" xmlns="http://www.w3.org/2000/svg"><mask id="bba" maskUnits="userSpaceOnUse" x="-.146" y="0" width="38" height="41" fill="#000"><path fill="currentColor" d="M-.146 0h38v41h-38z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M37.043 11.288c.083.075.165.15.165.224.083.15.083.224.083.224V38.5c0 .82-.745 1.491-1.656 1.491H2.511c-.911 0-1.657-.67-1.657-1.49V2.49C.854 1.671 1.6 1 2.511 1h22.773c.097 0 .165.026.222.047.04.015.075.028.109.028.083 0 .166.074.248.149l11.18 10.064zm-10.931-.223h8.364l-7.619-6.86-.745-.67v7.53zM2.51 2.49v35.935h33.124v-25.87h-9.523c-.911 0-1.656-.671-1.656-1.491V2.49H2.51zm5.053 14.165h23.022c.414 0 .828.299.828.746s-.332.745-.828.745H7.564c-.497 0-.828-.298-.828-.745 0-.448.331-.746.828-.746zm23.022 4.399H7.564c-.497 0-.828.298-.828.745 0 .448.331.746.828.746h23.022c.497 0 .828-.298.828-.746 0-.447-.414-.745-.828-.745zM7.564 25.528h23.022c.414 0 .828.298.828.746 0 .447-.332.745-.828.745H7.564c-.497 0-.828-.298-.828-.745 0-.448.331-.746.828-.746zm23.022 4.399H7.564c-.497 0-.828.298-.828.745 0 .448.331.746.828.746h23.022c.497 0 .828-.298.828-.746 0-.447-.414-.745-.828-.745zM7.564 34.325h23.022c.414 0 .828.299.828.746s-.332.745-.828.745H7.564c-.497 0-.828-.298-.828-.745s.331-.746.828-.746z"/></mask><path fill-rule="evenodd" clip-rule="evenodd" d="M37.043 11.288c.083.075.165.15.165.224.083.15.083.224.083.224V38.5c0 .82-.745 1.491-1.656 1.491H2.511c-.911 0-1.657-.67-1.657-1.49V2.49C.854 1.671 1.6 1 2.511 1h22.773c.097 0 .165.026.222.047.04.015.075.028.109.028.083 0 .166.074.248.149l11.18 10.064zm-10.931-.223h8.364l-7.619-6.86-.745-.67v7.53zM2.51 2.49v35.935h33.124v-25.87h-9.523c-.911 0-1.656-.671-1.656-1.491V2.49H2.51zm5.053 14.165h23.022c.414 0 .828.299.828.746s-.332.745-.828.745H7.564c-.497 0-.828-.298-.828-.745 0-.448.331-.746.828-.746zm23.022 4.399H7.564c-.497 0-.828.298-.828.745 0 .448.331.746.828.746h23.022c.497 0 .828-.298.828-.746 0-.447-.414-.745-.828-.745zM7.564 25.528h23.022c.414 0 .828.298.828.746 0 .447-.332.745-.828.745H7.564c-.497 0-.828-.298-.828-.745 0-.448.331-.746.828-.746zm23.022 4.399H7.564c-.497 0-.828.298-.828.745 0 .448.331.746.828.746h23.022c.497 0 .828-.298.828-.746 0-.447-.414-.745-.828-.745zM7.564 34.325h23.022c.414 0 .828.299.828.746s-.332.745-.828.745H7.564c-.497 0-.828-.298-.828-.745s.331-.746.828-.746z" fill="currentColor"/><path d="M37.208 11.512h-.1v.026l.013.023.087-.049zm-.165-.224l.067-.074-.067.074zM25.506 1.047l-.035.094.013.003.022-.097zm0 0l.035-.095-.013-.003-.022.098zm.357.177l.067-.075-.067.075zm8.613 9.84v.1h.26l-.194-.174-.066.075zm-8.364 0h-.1v.1h.1v-.1zm.745-6.858l.067-.075-.067.075zm-.745-.671l.067-.075-.167-.15v.225h.1zM2.51 38.425h-.1v.1h.1v-.1zm0-35.934v-.1h-.1v.1h.1zm33.124 35.935v.1h.1v-.1h-.1zm0-25.87h.1v-.1h-.1v.1zM24.455 2.49h.1v-.1h-.1v.1zm12.853 9.021a.28.28 0 00-.075-.176c-.036-.044-.083-.086-.123-.122l-.134.149c.043.038.078.07.104.101.027.033.028.047.028.048h.2zm-.017.224h.1v-.001-.001-.003a.88.88 0 00-.095-.268l-.175.098a.687.687 0 01.07.175v0h.1zm.1.074v-.074h-.2v.074h.2zm0 26.69V11.81h-.2V38.5h.2zm-1.756 1.591c.956 0 1.756-.706 1.756-1.59h-.2c0 .755-.69 1.39-1.556 1.39v.2zm-33.124 0h33.124v-.2H2.511v.2zm-1.757-1.59c0 .884.8 1.59 1.757 1.59v-.2c-.866 0-1.557-.635-1.557-1.39h-.2zm0-36.01v36.01h.2V2.49h-.2zM2.511.9C1.555.9.754 1.606.754 2.491h.2c0-.755.69-1.391 1.557-1.391V.9zM25.2.9H2.51v.2H25.2V.9zm.083 0H25.2v.2h.083V.9zm.257.053C25.483.931 25.4.9 25.284.9v.2c.078 0 .132.02.187.04l.07-.187zM25.528.95l-.044.195.044-.195zm.087.026a.247.247 0 01-.074-.022l-.07.187c.036.014.088.035.144.035v-.2zm.315.174c-.04-.036-.087-.078-.135-.11a.327.327 0 00-.18-.064v.2c.012 0 .033.005.068.029.035.023.07.056.113.094l.134-.149zm11.18 10.065L25.93 1.149l-.134.149 11.18 10.065.134-.149zm-2.634-.25h-8.364v.2h8.364v-.2zM26.79 4.28l7.619 6.859.133-.149-7.618-6.859-.134.15zm-.745-.67l.745.67.134-.149-.745-.67-.134.148zm.167 7.455v-7.53h-.2v7.53h.2zM2.61 38.425V2.492h-.2v35.935h.2zm33.024-.1H2.511v.2h33.124v-.2zm-.1-25.77v25.87h.2v-25.87h-.2zm-9.423.1h9.523v-.2h-9.523v.2zm-1.756-1.59c0 .885.8 1.59 1.756 1.59v-.2c-.866 0-1.556-.635-1.556-1.39h-.2zm0-8.574v8.574h.2V2.49h-.2zm-21.845.1h21.945v-.2H2.51v.2zm28.075 13.965H7.564v.2h23.022v-.2zm.928.846c0-.518-.476-.846-.928-.846v.2c.375 0 .728.27.728.646h.2zm-.928.845c.268 0 .5-.08.667-.23a.806.806 0 00.26-.615h-.2a.607.607 0 01-.194.466c-.123.11-.305.18-.533.18v.2zm-23.022 0h23.022v-.2H7.564v.2zm-.928-.845c0 .25.093.464.26.615.168.15.4.23.668.23v-.2c-.228 0-.41-.068-.533-.18a.607.607 0 01-.195-.465h-.2zm.928-.846c-.268 0-.5.08-.667.23a.806.806 0 00-.26.616h.2c0-.198.071-.356.194-.466.123-.111.305-.18.533-.18v-.2zm0 4.599h23.022v-.2H7.564v.2zm-.728.645c0-.197.072-.356.195-.466.123-.11.305-.18.533-.18v-.2c-.268 0-.5.081-.667.232a.806.806 0 00-.26.614h.2zm.728.646c-.228 0-.41-.069-.533-.18a.607.607 0 01-.195-.466h-.2c0 .25.093.464.26.615.168.15.4.231.668.231v-.2zm23.022 0H7.564v.2h23.022v-.2zm.728-.646a.607.607 0 01-.195.467c-.123.11-.305.179-.533.179v.2c.268 0 .5-.08.667-.23a.806.806 0 00.26-.616h-.2zm-.728-.645c.375 0 .728.269.728.645h.2c0-.518-.476-.845-.928-.845v.2zm0 4.273H7.564v.2h23.022v-.2zm.928.846c0-.519-.476-.846-.928-.846v.2c.375 0 .728.27.728.646h.2zm-.928.845c.268 0 .5-.08.667-.23a.806.806 0 00.26-.615h-.2a.607.607 0 01-.194.466c-.123.11-.305.18-.533.18v.2zm-23.022 0h23.022v-.2H7.564v.2zm-.928-.845c0 .25.093.464.26.614.168.15.4.231.668.231v-.2c-.228 0-.41-.068-.533-.18a.607.607 0 01-.195-.465h-.2zm.928-.846c-.268 0-.5.08-.667.23a.807.807 0 00-.26.616h.2c0-.198.071-.357.194-.467.123-.11.305-.179.533-.179v-.2zm0 4.599h23.022v-.2H7.564v.2zm-.728.645c0-.197.072-.356.195-.466.123-.11.305-.18.533-.18v-.2c-.268 0-.5.081-.667.231a.806.806 0 00-.26.615h.2zm.728.646c-.228 0-.41-.069-.533-.18a.607.607 0 01-.195-.466h-.2c0 .25.093.464.26.615.168.15.4.23.668.23v-.2zm23.022 0H7.564v.2h23.022v-.2zm.728-.646a.607.607 0 01-.195.466c-.123.111-.305.18-.533.18v.2c.268 0 .5-.08.667-.23a.806.806 0 00.26-.616h-.2zm-.728-.645c.375 0 .728.269.728.645h.2c0-.518-.476-.845-.928-.845v.2zm0 4.198H7.564v.2h23.022v-.2zm.928.846c0-.518-.476-.846-.928-.846v.2c.375 0 .728.27.728.646h.2zm-.928.845c.268 0 .5-.08.667-.23a.806.806 0 00.26-.615h-.2a.607.607 0 01-.194.466c-.123.111-.305.18-.533.18v.2zm-23.022 0h23.022v-.2H7.564v.2zm-.928-.845c0 .25.093.464.26.615.168.15.4.23.668.23v-.2c-.228 0-.41-.068-.533-.179a.607.607 0 01-.195-.466h-.2zm.928-.846c-.268 0-.5.081-.667.231a.806.806 0 00-.26.615h.2c0-.198.071-.356.194-.466.123-.111.305-.18.533-.18v-.2z" fill="currentColor" mask="url(#bba)"/></symbol><symbol viewBox="0 0 19.586 19.586" id="phone" xmlns="http://www.w3.org/2000/svg"><path data-name="Path 2" d="M0 0h19.586v19.586H0z" fill="none"/><path data-name="Path 3" d="M5.361 8.8a12.418 12.418 0 005.434 5.43l1.814-1.818a.827.827 0 01.837-.2 9.387 9.387 0 002.944.47.822.822 0 01.825.825v2.886a.822.822 0 01-.825.825A14.017 14.017 0 012.372 3.197a.824.824 0 01.825-.825h2.886a.822.822 0 01.825.825 9.387 9.387 0 00.47 2.944.827.827 0 01-.2.837z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 18 19" id="phone2" xmlns="http://www.w3.org/2000/svg"><path d="M3.625 8.575c1.44 2.753 3.755 5.005 6.59 6.406l2.2-2.145c.275-.268.67-.346 1.015-.239 1.12.36 2.325.555 3.57.555.555 0 1 .433 1 .973v3.404c0 .54-.445.973-1 .973-9.39 0-17-7.403-17-16.537 0-.54.45-.973 1-.973h3.5c.555 0 1 .433 1 .973 0 1.211.2 2.383.57 3.473.11.335.03.72-.245.987l-2.2 2.15z" fill="#0F295F"/></symbol><symbol fill="none" viewBox="0 0 38 44" id="pin" xmlns="http://www.w3.org/2000/svg"><path d="M1.375 16.236c0-8.071 7.706-14.893 17.496-14.893s17.497 6.822 17.497 14.893c0 5.766-2.61 9.596-5.98 13.216-.742.797-1.525 1.594-2.329 2.414-2.836 2.889-5.943 6.054-8.515 10.474a.595.595 0 01-.239.214.937.937 0 01-.434.103.936.936 0 01-.434-.103.595.595 0 01-.238-.214c-2.572-4.42-5.68-7.585-8.515-10.474-.805-.82-1.587-1.617-2.33-2.414-3.37-3.62-5.979-7.45-5.979-13.216z" stroke="currentColor" stroke-width="2"/><circle cx="18.871" cy="17.349" r="6.473" stroke="currentColor" stroke-width="2"/></symbol><symbol fill="none" viewBox="0 0 24 21" id="print" xmlns="http://www.w3.org/2000/svg"><path d="M22.377 3.643h-2.746V1.17a.915.915 0 00-.915-.915H5.444a.915.915 0 00-.916.915v2.472H1.782a.915.915 0 00-.915.915v8.97c0 .506.41.915.916.915h2.746v4.824c0 .306.061.533.297.749.11.1.227.166.37.206.133.037.264.034.398.034h12.971c.134 0 .266.003.398-.034a.881.881 0 00.371-.207c.236-.216.297-.444.297-.749v-1.582-3.24h2.746c.506 0 .916-.41.916-.916v-8.97a.915.915 0 00-.916-.915zM3.156 6.869a.8.8 0 110-1.602.8.8 0 010 1.602zm15.56 12.471H5.444v-7.23h13.272v7.23zm0-15.697H5.444V2.087c0-.506.41-.916.915-.916h11.442c.505 0 .915.41.915.916v1.556z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 20 18" id="print-icon" xmlns="http://www.w3.org/2000/svg"><path d="M20 5H0v9h4v4h12v-4h4V5zm-6 11H6v-5h8v5zm3-7c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm-1-9H4v4h12V0z" fill="#005C97"/></symbol><symbol fill="none" viewBox="0 0 84 70" id="quote-icon" xmlns="http://www.w3.org/2000/svg"><path opacity=".2" d="M5.065 60.745l.005.008.006.008a20.575 20.575 0 006.233 6.266c2.572 1.662 5.849 2.473 9.794 2.473 4.715 0 8.806-1.645 12.248-4.924 3.458-3.292 5.181-7.503 5.181-12.592 0-5.431-1.716-9.742-5.191-12.868-3.444-3.097-7.532-4.648-12.238-4.648-3.563 0-6.742 1.038-9.518 3.112-.373-1.377-.562-2.956-.562-4.739 0-5.004 1.885-9.948 5.71-14.842 4.007-4.903 8.703-8.483 14.087-10.753l.49-.206-.236-.477-2.381-4.786-.219-.439-.443.21c-9.412 4.463-16.372 10.28-20.843 17.47C2.728 26.19.5 34.17.5 42.944c0 2.164.269 4.94.8 8.32l.002.015.003.015c.718 3.245 1.972 6.396 3.76 9.45zm44.968 0l.005.008.005.008a20.575 20.575 0 006.234 6.266c2.572 1.662 5.848 2.473 9.794 2.473 4.715 0 8.805-1.645 12.248-4.924 3.457-3.292 5.181-7.503 5.181-12.592 0-5.431-1.716-9.742-5.192-12.868-3.444-3.097-7.531-4.648-12.237-4.648-3.564 0-6.742 1.038-9.519 3.112-.372-1.377-.562-2.956-.562-4.739 0-5.004 1.886-9.948 5.71-14.842 4.008-4.903 8.704-8.483 14.088-10.753l.49-.206-.237-.477-2.38-4.786-.219-.439-.443.21c-9.412 4.463-16.373 10.28-20.843 17.47-4.46 7.172-6.688 15.152-6.688 23.926 0 2.164.268 4.94.8 8.32l.002.015.003.015c.717 3.245 1.972 6.396 3.76 9.45z" stroke="#333"/></symbol><symbol viewBox="0 0 19.582 19.582" id="search" xmlns="http://www.w3.org/2000/svg"><path data-name="Path 8" d="M12.655 11.428h-.65l-.225-.225a5.277 5.277 0 10-.576.581l.225.225v.646l4.088 4.08 1.217-1.218-4.08-4.088zm-4.906 0a3.68 3.68 0 113.68-3.68 3.68 3.68 0 01-3.68 3.68z"/><path data-name="Path 9" d="M0 0h19.582v19.582H0z" fill="none"/></symbol><symbol fill="none" viewBox="0 0 16 16" id="search-icon" xmlns="http://www.w3.org/2000/svg"><path d="M15.757 14.573l-3.944-3.96a6.307 6.307 0 001.57-4.153C13.382 2.898 10.38 0 6.69 0 3.001 0 0 2.898 0 6.46s3.002 6.46 6.691 6.46a6.784 6.784 0 003.834-1.169l3.974 3.99c.166.167.39.259.629.259a.885.885 0 00.605-.235.823.823 0 00.024-1.192zM6.69 1.685c2.727 0 4.946 2.142 4.946 4.775 0 2.633-2.219 4.775-4.946 4.775S1.746 9.093 1.746 6.46c0-2.633 2.218-4.775 4.945-4.775z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 18 15" id="share-icon" xmlns="http://www.w3.org/2000/svg"><path d="M11 4V0l7 7-7 7V9.9c-5 0-8.5 1.6-11 5.1C1 10 4 5 11 4z" fill="#005C97"/></symbol><symbol viewBox="0 0 576 512" fill="currentColor" id="shopping-cart" xmlns="http://www.w3.org/2000/svg"><path d="M528.12 301.319l47.273-208C578.806 78.301 567.391 64 551.99 64H159.208l-9.166-44.81C147.758 8.021 137.93 0 126.529 0H24C10.745 0 0 10.745 0 24v16c0 13.255 10.745 24 24 24h69.883l70.248 343.435C147.325 417.1 136 435.222 136 456c0 30.928 25.072 56 56 56s56-25.072 56-56c0-15.674-6.447-29.835-16.824-40h209.647C430.447 426.165 424 440.326 424 456c0 30.928 25.072 56 56 56s56-25.072 56-56c0-22.172-12.888-41.332-31.579-50.405l5.517-24.276c3.413-15.018-8.002-29.319-23.403-29.319H218.117l-6.545-32h293.145c11.206 0 20.92-7.754 23.403-18.681z"/></symbol><symbol viewBox="0 0 512 512" fill="currentColor" id="sign-in-alt" xmlns="http://www.w3.org/2000/svg"><path d="M416 448h-84c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h84c17.7 0 32-14.3 32-32V160c0-17.7-14.3-32-32-32h-84c-6.6 0-12-5.4-12-12V76c0-6.6 5.4-12 12-12h84c53 0 96 43 96 96v192c0 53-43 96-96 96zm-47-201L201 79c-15-15-41-4.5-41 17v96H24c-13.3 0-24 10.7-24 24v96c0 13.3 10.7 24 24 24h136v96c0 21.5 26 32 41 17l168-168c9.3-9.4 9.3-24.6 0-34z"/></symbol><symbol fill="none" viewBox="0 0 30 28" id="social-facebook" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#bnclip0)"><path d="M17.423 27.144V14.829h4.438l.666-4.8h-5.104V6.963c0-1.39.413-2.337 2.555-2.337l2.728-.001V.332c-.471-.057-2.09-.188-3.976-.188-3.936 0-6.63 2.237-6.63 6.344v3.54H7.647v4.801h4.451v12.315h5.324z" fill="currentColor"/></g><defs><clipPath id="bnclip0"><path fill="#fff" transform="translate(.677 .144)" d="M0 0h29v27H0z"/></clipPath></defs></symbol><symbol fill="none" viewBox="0 0 28 29" id="social-instagram" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#boclip0)"><path d="M14.598 28.644h-.269a90.44 90.44 0 01-5.973-.17c-1.744-.11-3.335-.735-4.603-1.807-1.223-1.035-2.059-2.433-2.483-4.157-.369-1.5-.388-2.973-.407-4.398a318.344 318.344 0 01-.03-3.465c.002-1.237.016-2.448.03-3.47.019-1.425.038-2.898.407-4.398.424-1.724 1.26-3.122 2.483-4.157C5.021 1.55 6.613.925 8.356.815a90.72 90.72 0 015.979-.17c2.116-.005 4.071.05 5.973.17 1.744.11 3.335.735 4.603 1.807 1.223 1.035 2.058 2.433 2.482 4.157.37 1.5.39 2.973.408 4.398.014 1.022.028 2.233.03 3.465v.005a311.172 311.172 0 01-.03 3.465c-.019 1.425-.038 2.898-.408 4.398-.424 1.724-1.259 3.122-2.482 4.157-1.268 1.072-2.86 1.696-4.603 1.806a89.98 89.98 0 01-5.71.171zm-.269-2.188c2.082.006 3.994-.049 5.851-.166 1.318-.083 2.461-.527 3.398-1.319.865-.732 1.462-1.742 1.772-3.002.307-1.249.325-2.59.342-3.887.013-1.015.027-2.218.03-3.438a319.6 319.6 0 00-.03-3.437c-.017-1.297-.035-2.638-.342-3.888-.31-1.26-.907-2.27-1.772-3.002-.937-.791-2.08-1.235-3.398-1.318a88.905 88.905 0 00-5.846-.167A88.61 88.61 0 008.484 3c-1.319.083-2.462.527-3.398 1.318C4.22 5.05 3.624 6.06 3.314 7.32c-.307 1.25-.325 2.59-.342 3.888-.013 1.016-.027 2.22-.03 3.44.003 1.216.017 2.42.03 3.435.017 1.297.035 2.638.342 3.887.31 1.26.906 2.27 1.772 3.002.936.792 2.08 1.236 3.398 1.319 1.857.117 3.77.172 5.845.166zm-.05-4.976c-3.634 0-6.592-3.066-6.592-6.836 0-3.769 2.958-6.835 6.592-6.835 3.635 0 6.592 3.066 6.592 6.835 0 3.77-2.957 6.836-6.592 6.836zm0-11.484c-2.472 0-4.482 2.085-4.482 4.648 0 2.563 2.01 4.649 4.482 4.649 2.472 0 4.483-2.085 4.483-4.649 0-2.563-2.011-4.648-4.483-4.648zm7.33-4.375c-.874 0-1.582.734-1.582 1.64 0 .907.708 1.641 1.582 1.641.874 0 1.582-.734 1.582-1.64 0-.907-.708-1.641-1.582-1.641z" fill="currentColor"/></g><defs><clipPath id="boclip0"><path fill="#fff" transform="translate(.832 .644)" d="M0 0h27v28H0z"/></clipPath></defs></symbol><symbol fill="none" viewBox="0 0 15 14" id="social-linkedin" xmlns="http://www.w3.org/2000/svg"><path d="M3.328 4.62H.324v9.037h3.004V4.62zM1.847.264c-1.028 0-1.7.674-1.7 1.56 0 .868.652 1.563 1.66 1.563h.02c1.048 0 1.7-.694 1.7-1.562C3.507.938 2.875.264 1.847.264zm8.855 4.144c-1.595 0-2.309.878-2.708 1.493v.03h-.019l.02-.03v-1.28H4.99c.04.847 0 9.036 0 9.036h3.005V8.61c0-.27.02-.54.1-.732.217-.54.71-1.1 1.54-1.1 1.088 0 1.523.83 1.523 2.044v4.835h3.004V8.475c0-2.776-1.482-4.067-3.46-4.067z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 23 22" id="social-pinterest" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#bqclip0)"><path d="M11.6.922c-5.611 0-8.438 4.02-8.438 7.374 0 2.031.77 3.836 2.417 4.51.272.11.51.005.59-.293.054-.205.184-.728.243-.946.08-.297.05-.398-.172-.658-.477-.56-.779-1.285-.779-2.315 0-2.982 2.232-5.654 5.813-5.654 3.17 0 4.912 1.94 4.912 4.523 0 3.405-1.508 6.277-3.744 6.277-1.235 0-2.16-1.021-1.863-2.274.356-1.495 1.042-3.111 1.042-4.191 0-.968-.519-1.772-1.591-1.772-1.26 0-2.278 1.307-2.278 3.057 0 1.114.377 1.868.377 1.868L6.613 16.86c-.452 1.91-.067 4.25-.034 4.485.021.143.201.176.28.067.118-.15 1.622-2.01 2.132-3.865.147-.524.83-3.246.83-3.246.41.784 1.608 1.47 2.885 1.47 3.794 0 6.37-3.459 6.37-8.09 0-3.497-2.966-6.76-7.476-6.76z" fill="currentColor"/></g><defs><clipPath id="bqclip0"><path fill="currentColor" transform="translate(.683 .461)" d="M0 0h21.44v21.44H0z"/></clipPath></defs></symbol><symbol fill="none" viewBox="0 0 28 28" id="social-twitter" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#brclip0)"><path d="M21.052 2.40503H24.8851L16.5109 11.9761L26.3624 25.0001H18.6488L12.6072 17.1011L5.6943 25.0001H1.85895L10.8159 14.7628L1.36533 2.40503H9.27476L14.7357 9.625L21.052 2.40503ZM19.7066 22.7057H21.8306L8.12071 4.57884H5.84149L19.7066 22.7057Z" fill="currentColor"/></g><defs><clipPath id="brclip0"><path fill="#fff" transform="translate(.832 .144)" d="M0 0h27v27H0z"/></clipPath></defs></symbol><symbol fill="none" viewBox="0 0 28 28" id="social-youtube" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#bsclip0)"><path d="M26.924 6.814l.034.22a3.425 3.425 0 00-2.326-2.375l-.024-.006c-2.105-.571-10.575-.571-10.575-.571s-8.449-.012-10.575.571a3.424 3.424 0 00-2.343 2.358l-.006.024c-.786 4.107-.792 9.042.035 13.44l-.035-.223a3.424 3.424 0 002.327 2.376l.023.006c2.103.573 10.575.573 10.575.573s8.448 0 10.575-.573a3.423 3.423 0 002.345-2.358l.005-.024c.358-1.91.563-4.108.563-6.354l-.001-.248v-.26a36.29 36.29 0 00-.597-6.576zM11.331 17.751V9.547l7.05 4.108-7.05 4.096z" fill="currentColor"/></g><defs><clipPath id="bsclip0"><path fill="#fff" transform="translate(.522 .144)" d="M0 0h27v27H0z"/></clipPath></defs></symbol><symbol fill="none" viewBox="0 0 20 20" id="time-icon" xmlns="http://www.w3.org/2000/svg"><path d="M10 0a10 10 0 100 20 10 10 0 000-20zm0 18.667a8.667 8.667 0 110-17.334 8.667 8.667 0 010 17.334z" fill="currentColor"/><path d="M10.666 3.334a.667.667 0 10-1.333 0V10a.667.667 0 00.667.667h6.666a.667.667 0 000-1.333h-6v-6z" fill="currentColor"/></symbol><symbol viewBox="0 0 496 512" fill="currentColor" id="user-circle" xmlns="http://www.w3.org/2000/svg"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"/></symbol></svg></div>
+
+			
+<div class="wrapper">
+
+    <header class="site-header" role="banner" data-sticky="fixed">
+
+		
+
+    <div class="site-header__main">
+
+        <div class="site-header__row inner-frame">
+
+            <div class="site-header__col -left">
+				
+					
+						
+<div class="site-header__widget">
+	        <a href="https://www.mavenir.com" class="site-header__logo">
+			
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="221" zoomAndPan="magnify" viewBox="0 0 165.75 30.000001" height="40" preserveAspectRatio="xMidYMid meet" version="1.0"><defs><clipPath id="c0af41337d"><path d="M 159 0 L 162.957031 0 L 162.957031 4 L 159 4 Z M 159 0 " clip-rule="nonzero"/></clipPath></defs><path fill="#ed1c2b" d="M 3.828125 25.832031 L 28.472656 25.832031 C 28.597656 25.832031 28.707031 25.878906 28.796875 25.964844 C 28.882812 26.054688 28.929688 26.160156 28.929688 26.285156 L 28.929688 28.347656 C 28.929688 28.472656 28.882812 28.578125 28.796875 28.667969 C 28.707031 28.757812 28.597656 28.800781 28.472656 28.800781 L 3.828125 28.800781 C 3.699219 28.800781 3.59375 28.757812 3.503906 28.667969 C 3.414062 28.578125 3.371094 28.472656 3.371094 28.347656 L 3.371094 26.285156 C 3.371094 26.160156 3.414062 26.054688 3.503906 25.964844 C 3.59375 25.878906 3.699219 25.832031 3.828125 25.832031 Z M 3.828125 25.832031 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 36.179688 22.390625 C 36.082031 22.609375 35.820312 22.863281 35.429688 22.863281 L 33.378906 22.863281 C 32.890625 22.863281 32.628906 22.453125 32.824219 22.042969 L 42.828125 0.765625 C 42.929688 0.578125 43.21875 0.417969 43.382812 0.417969 L 43.707031 0.417969 C 43.871094 0.417969 44.164062 0.578125 44.261719 0.765625 L 54.199219 22.042969 C 54.394531 22.453125 54.136719 22.863281 53.648438 22.863281 L 51.59375 22.863281 C 51.203125 22.863281 50.972656 22.675781 50.84375 22.390625 L 43.578125 6.675781 L 43.414062 6.675781 Z M 36.179688 22.390625 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 7.636719 0.894531 C 7.703125 0.640625 7.964844 0.417969 8.222656 0.417969 L 8.746094 0.417969 C 8.941406 0.417969 9.234375 0.578125 9.300781 0.765625 L 16.109375 16.921875 L 16.242188 16.921875 L 23.019531 0.765625 C 23.082031 0.578125 23.34375 0.417969 23.574219 0.417969 L 24.09375 0.417969 C 24.351562 0.417969 24.613281 0.640625 24.679688 0.894531 L 28.6875 22.136719 C 28.785156 22.578125 28.558594 22.863281 28.101562 22.863281 L 25.984375 22.863281 C 25.691406 22.863281 25.433594 22.644531 25.367188 22.421875 L 22.953125 8.289062 L 22.855469 8.289062 L 16.992188 22.832031 C 16.925781 23.019531 16.730469 23.179688 16.4375 23.179688 L 15.851562 23.179688 C 15.59375 23.179688 15.363281 23.019531 15.296875 22.832031 L 9.398438 8.289062 L 9.269531 8.289062 L 6.921875 22.421875 C 6.890625 22.644531 6.59375 22.863281 6.335938 22.863281 L 4.21875 22.863281 C 3.761719 22.863281 3.535156 22.578125 3.597656 22.136719 L 7.640625 0.894531 Z M 7.636719 0.894531 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 53.738281 1.558594 C 53.542969 1.144531 53.800781 0.734375 54.289062 0.734375 L 56.605469 0.734375 C 56.863281 0.734375 57.09375 0.925781 57.160156 1.082031 L 64.328125 16.730469 L 64.523438 16.730469 L 71.691406 1.082031 C 71.757812 0.925781 71.953125 0.734375 72.246094 0.734375 L 74.558594 0.734375 C 75.046875 0.734375 75.308594 1.148438 75.113281 1.558594 L 65.109375 22.835938 C 65.007812 23.023438 64.816406 23.179688 64.554688 23.179688 L 64.230469 23.179688 C 64 23.179688 63.773438 23.023438 63.675781 22.835938 Z M 53.738281 1.558594 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 81.078125 1.335938 C 81.078125 1.019531 81.335938 0.734375 81.699219 0.734375 L 94.734375 0.734375 C 95.09375 0.734375 95.351562 1.019531 95.351562 1.335938 L 95.351562 3.105469 C 95.351562 3.421875 95.09375 3.707031 94.734375 3.707031 L 84.433594 3.707031 L 84.433594 10.15625 L 93.136719 10.15625 C 93.460938 10.15625 93.753906 10.441406 93.753906 10.757812 L 93.753906 12.527344 C 93.753906 12.875 93.460938 13.128906 93.136719 13.128906 L 84.433594 13.128906 L 84.433594 19.925781 L 94.734375 19.925781 C 95.09375 19.925781 95.351562 20.210938 95.351562 20.523438 L 95.351562 22.265625 C 95.351562 22.578125 95.09375 22.863281 94.734375 22.863281 L 81.699219 22.863281 C 81.339844 22.863281 81.078125 22.578125 81.078125 22.265625 Z M 81.078125 1.335938 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 102.675781 0.988281 C 102.675781 0.675781 102.96875 0.421875 103.292969 0.421875 L 104.109375 0.421875 L 118.253906 16.289062 L 118.285156 16.289062 L 118.285156 1.335938 C 118.285156 1.019531 118.542969 0.734375 118.902344 0.734375 L 120.988281 0.734375 C 121.316406 0.734375 121.609375 1.019531 121.609375 1.335938 L 121.609375 22.613281 C 121.609375 22.929688 121.316406 23.179688 120.988281 23.179688 L 120.140625 23.179688 L 106 6.867188 L 105.96875 6.867188 L 105.96875 22.265625 C 105.96875 22.578125 105.707031 22.863281 105.347656 22.863281 L 103.292969 22.863281 C 102.96875 22.863281 102.675781 22.578125 102.675781 22.265625 Z M 102.675781 0.988281 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 130.042969 1.335938 C 130.042969 1.019531 130.339844 0.734375 130.664062 0.734375 L 132.816406 0.734375 C 133.140625 0.734375 133.4375 1.019531 133.4375 1.335938 L 133.4375 22.265625 C 133.4375 22.582031 133.140625 22.867188 132.816406 22.867188 L 130.664062 22.867188 C 130.339844 22.867188 130.042969 22.582031 130.042969 22.265625 Z M 130.042969 1.335938 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 153.964844 13.917969 C 156.800781 12.8125 158.785156 10.410156 158.785156 7.5 C 158.785156 3.738281 155.59375 0.734375 151.683594 0.734375 L 142.820312 0.734375 C 142.460938 0.734375 142.199219 1.019531 142.199219 1.335938 L 142.199219 22.265625 C 142.199219 22.582031 142.457031 22.867188 142.820312 22.867188 L 144.9375 22.867188 C 145.261719 22.867188 145.554688 22.582031 145.554688 22.265625 L 145.554688 14.203125 L 150.476562 14.203125 L 154.808594 22.582031 C 154.875 22.707031 155.070312 22.867188 155.332031 22.867188 L 157.875 22.867188 C 158.425781 22.867188 158.65625 22.359375 158.425781 21.949219 L 153.960938 13.921875 Z M 145.621094 11.484375 L 145.621094 3.800781 L 151.421875 3.800781 C 153.539062 3.800781 155.398438 5.507812 155.398438 7.5625 C 155.398438 9.746094 153.539062 11.484375 151.421875 11.484375 Z M 145.621094 11.484375 " fill-opacity="1" fill-rule="nonzero"/><g clip-path="url(#c0af41337d)"><path fill="#005c97" d="M 160.796875 0.734375 C 161.074219 0.734375 161.339844 0.804688 161.59375 0.941406 C 161.847656 1.078125 162.046875 1.277344 162.191406 1.53125 C 162.335938 1.789062 162.410156 2.058594 162.410156 2.339844 C 162.410156 2.617188 162.339844 2.882812 162.199219 3.136719 C 162.054688 3.390625 161.855469 3.585938 161.601562 3.730469 C 161.347656 3.871094 161.078125 3.941406 160.796875 3.941406 C 160.519531 3.941406 160.25 3.871094 159.996094 3.730469 C 159.742188 3.589844 159.542969 3.390625 159.398438 3.136719 C 159.257812 2.882812 159.1875 2.617188 159.1875 2.339844 C 159.1875 2.058594 159.257812 1.789062 159.40625 1.53125 C 159.550781 1.277344 159.75 1.078125 160.003906 0.941406 C 160.257812 0.804688 160.523438 0.734375 160.796875 0.734375 Z M 160.800781 1.046875 C 160.578125 1.046875 160.367188 1.101562 160.164062 1.214844 C 159.957031 1.324219 159.800781 1.484375 159.679688 1.691406 C 159.5625 1.894531 159.503906 2.113281 159.503906 2.339844 C 159.503906 2.566406 159.5625 2.777344 159.675781 2.980469 C 159.792969 3.183594 159.953125 3.34375 160.15625 3.460938 C 160.359375 3.574219 160.574219 3.628906 160.796875 3.628906 C 161.023438 3.628906 161.238281 3.574219 161.445312 3.460938 C 161.648438 3.34375 161.808594 3.1875 161.921875 2.980469 C 162.035156 2.777344 162.09375 2.5625 162.09375 2.339844 C 162.09375 2.113281 162.035156 1.894531 161.917969 1.691406 C 161.800781 1.484375 161.640625 1.324219 161.4375 1.214844 C 161.230469 1.101562 161.019531 1.046875 160.796875 1.046875 Z M 160.070312 3.195312 L 160.070312 1.492188 L 160.417969 1.492188 C 160.746094 1.492188 160.925781 1.492188 160.964844 1.496094 C 161.078125 1.507812 161.167969 1.527344 161.234375 1.566406 C 161.296875 1.601562 161.351562 1.652344 161.394531 1.730469 C 161.4375 1.800781 161.457031 1.882812 161.457031 1.972656 C 161.457031 2.097656 161.417969 2.199219 161.335938 2.289062 C 161.253906 2.375 161.140625 2.429688 160.996094 2.449219 C 161.046875 2.46875 161.085938 2.492188 161.117188 2.515625 C 161.144531 2.539062 161.183594 2.582031 161.230469 2.644531 C 161.246094 2.660156 161.289062 2.730469 161.355469 2.851562 L 161.558594 3.195312 L 161.128906 3.195312 L 160.988281 2.917969 C 160.890625 2.734375 160.808594 2.617188 160.746094 2.566406 C 160.683594 2.519531 160.601562 2.496094 160.507812 2.496094 L 160.417969 2.496094 L 160.417969 3.195312 Z M 160.417969 2.230469 L 160.558594 2.230469 C 160.761719 2.230469 160.886719 2.222656 160.933594 2.207031 C 160.984375 2.191406 161.019531 2.164062 161.050781 2.125 C 161.078125 2.085938 161.09375 2.042969 161.09375 1.996094 C 161.09375 1.945312 161.078125 1.90625 161.050781 1.867188 C 161.023438 1.832031 160.984375 1.804688 160.933594 1.789062 C 160.882812 1.773438 160.757812 1.765625 160.5625 1.765625 L 160.421875 1.765625 L 160.421875 2.230469 Z M 160.417969 2.230469 " fill-opacity="1" fill-rule="nonzero"/></g></svg>
+			        </a>
+	</div>
+
+					
+				            </div>
+
+            <div class="site-header__col -center">
+				
+					
+						    <div class="site-header__widget">
+        <div class="nav-main__wrap">
+            <div class="nav-main">
+				<ul id="menu-primary-menu" class="nav-main__links"><li id="menu-item-48730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48730"><a href="https://www.mavenir.com/solutions/">Solutions</a>
+<div class='sub-menu-simple js-sub-menu'><div class='plain-menu-label'><span class='nav-main__prev'></span>Solutions</div><ul class="sub-menu ul-lvl-1">
+	<li id="menu-item-48731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48731"><a href="https://www.mavenir.com/solutions/evolve-5g/">5G Evolution</a></li>
+	<li id="menu-item-56256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56256"><a href="https://www.mavenir.com/solutions/5g-signaling/">5G Signaling</a></li>
+	<li id="menu-item-48995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48995"><a href="https://www.mavenir.com/solutions/cell-broadcast/">Cell Broadcast</a></li>
+	<li id="menu-item-48732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48732"><a href="https://www.mavenir.com/solutions/fixed-wireless-access/">Fixed Wireless Access</a></li>
+	<li id="menu-item-67347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67347"><a href="https://www.mavenir.com/solutions/inbound-roaming-solution-for-4g-5g-voice/">Inbound Roaming for 4G/5G Voice</a></li>
+	<li id="menu-item-56725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56725"><a href="https://www.mavenir.com/solutions/mining-solution/">Mining Solution</a></li>
+	<li id="menu-item-68336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68336"><a href="https://www.mavenir.com/solutions/mvno-solutions/">MVNO Solutions</a></li>
+	<li id="menu-item-48994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48994"><a href="https://www.mavenir.com/solutions/network-as-a-hosted-service-naahs/">Network-as-a-Hosted Service (NaaHS)</a></li>
+	<li id="menu-item-48733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48733"><a href="https://www.mavenir.com/solutions/network-automation/">Network Automation</a></li>
+	<li id="menu-item-48998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48998"><a href="https://www.mavenir.com/solutions/mobile-network-cost-reduction/">Network Cost Reduction</a></li>
+	<li id="menu-item-48993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48993"><a href="https://www.mavenir.com/portfolio/mavapps/fraud-security/">Network Protection</a></li>
+	<li id="menu-item-48997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48997"><a href="https://www.mavenir.com/solutions/new-revenue-generation/">New Revenue Generation</a></li>
+</ul></div>
+</li>
+<li id="menu-item-52262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-52262 has-mega-menu"><a href="https://www.mavenir.com/#portfolio">MAV Portfolio</a>
+<div class='sub-menu-mega js-sub-menu'><div class='plain-menu-label'><span class='nav-main__prev'></span>MAV Portfolio</div><ul class="sub-menu ul-lvl-1">
+	<li id="menu-item-48955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48955"><a href="https://www.mavenir.com/portfolio/mavcore/"><div class="menu-item-img-wrapper"><img src="https://www.mavenir.com/wp-content/uploads/2022/10/MAVcore-blue-1-1.svg" alt="mavcore-blue-1-1" class="menu-item-image"></div><div class="menu-item-content">MAVcore®</div></a>
+	<ul class="sub-menu js-sub2-menu ul-lvl-2">
+		<li id="menu-item-61764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61764"><a href="https://www.mavenir.com/portfolio/mavcore/cloud-native-ims/">Cloud-Native IMS</a></li>
+		<li id="menu-item-61748" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61748"><a href="/portfolio/mavcore/messaging-solutions">Messaging Solutions</a></li>
+		<li id="menu-item-61765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61765"><a href="https://www.mavenir.com/portfolio/mavcore/converged-packet-core/">Converged Packet Core</a></li>
+	</ul>
+</li>
+	<li id="menu-item-48956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48956"><a href="https://www.mavenir.com/portfolio/mavair/"><div class="menu-item-img-wrapper"><img src="https://www.mavenir.com/wp-content/uploads/2022/09/MAVair-blue.svg" alt="mavair-blue" class="menu-item-image"></div><div class="menu-item-content">MAVair®</div></a>
+	<ul class="sub-menu js-sub2-menu ul-lvl-2">
+		<li id="menu-item-48974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48974"><a href="https://www.mavenir.com/portfolio/mavair/radio-access/">Radio/Access</a>
+		<ul class="sub-menu ul-lvl-3">
+			<li id="menu-item-48975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48975"><a href="https://www.mavenir.com/portfolio/mavair/radio-access/vran/">Open vRAN</a></li>
+			<li id="menu-item-48976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48976"><a href="https://www.mavenir.com/portfolio/mavair/openbeam/">OpenBeam®</a></li>
+			<li id="menu-item-48977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48977"><a href="https://www.mavenir.com/portfolio/mavair/radio-access/small-cell-solutions/">Small Cell Solutions</a></li>
+			<li id="menu-item-58732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58732"><a href="https://www.mavenir.com/portfolio/mavair/radio-access/virtual-cell-site-router-vcsr/">Virtual Cell Site Router (vCSR) </a></li>
+		</ul>
+</li>
+		<li id="menu-item-66297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66297"><a href="https://www.mavenir.com/portfolio/mavair/non-terrestrial-network-ntn/">Non-Terrestrial Network (NTN)</a></li>
+	</ul>
+</li>
+	<li id="menu-item-48957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48957"><a href="https://www.mavenir.com/portfolio/mavedge/"><div class="menu-item-img-wrapper"><img src="https://www.mavenir.com/wp-content/uploads/2022/09/MAVedge-blue.svg" alt="mavedge-blue" class="menu-item-image"></div><div class="menu-item-content">MAVedge®</div></a>
+	<ul class="sub-menu js-sub2-menu ul-lvl-2">
+		<li id="menu-item-48980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48980"><a href="https://www.mavenir.com/portfolio/mavedge/cbrs-ongo-private-networks/">CBRS/OnGo Private Networks</a></li>
+		<li id="menu-item-48979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48979"><a href="https://www.mavenir.com/portfolio/mavedge/private-networks/">Private Networks</a></li>
+		<li id="menu-item-48982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48982"><a href="https://www.mavenir.com/portfolio/mavedge/intelligent-iot-platform-iiotp/">Intelligent IoT Platform (IIoTP)</a></li>
+		<li id="menu-item-48978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48978"><a href="https://www.mavenir.com/portfolio/mavedge/mec/">Multi-Access Edge Computing</a></li>
+	</ul>
+</li>
+	<li id="menu-item-48958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48958"><a href="https://www.mavenir.com/portfolio/mavapps/"><div class="menu-item-img-wrapper"><img src="https://www.mavenir.com/wp-content/uploads/2022/09/MAVapps-blue.svg" alt="mavapps-blue" class="menu-item-image"></div><div class="menu-item-content">MAVapps®</div></a>
+	<ul class="sub-menu js-sub2-menu ul-lvl-2">
+		<li id="menu-item-66132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66132"><a href="https://www.mavenir.com/portfolio/mavapps/mavenir-digital-enablement-bss/">Digital Enablement BSS</a></li>
+		<li id="menu-item-48969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48969"><a href="https://www.mavenir.com/portfolio/mavapps/fraud-security/">Fraud and Security Suite</a></li>
+	</ul>
+</li>
+	<li id="menu-item-48960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48960"><a href="https://www.mavenir.com/portfolio/mavscale/"><div class="menu-item-img-wrapper"><img src="https://www.mavenir.com/wp-content/uploads/2022/10/MAVcore-blue-1-6.svg" alt="mavcore-blue-1-6" class="menu-item-image"></div><div class="menu-item-content">MAVscale®</div></a>
+	<ul class="sub-menu js-sub2-menu ul-lvl-2">
+		<li id="menu-item-48981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48981"><a href="https://www.mavenir.com/portfolio/mavscale/ai-analytics/">AI &#038; Analytics</a>
+		<ul class="sub-menu ul-lvl-3">
+			<li id="menu-item-65665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65665"><a href="https://www.mavenir.com/portfolio/mavscale/ai-analytics/network-intelligence-as-a-service-niaas/">Network Intelligence as a Service (NIaaS)</a></li>
+			<li id="menu-item-48984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48984"><a href="https://www.mavenir.com/portfolio/mavscale/ai-analytics/ran-intelligent-controller-ric/">RAN Intelligent Controller (RIC)</a></li>
+		</ul>
+</li>
+		<li id="menu-item-48987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48987"><a href="https://www.mavenir.com/portfolio/mavscale/webscale-platform/">Webscale Platform</a></li>
+		<li id="menu-item-65664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65664"><a href="https://www.mavenir.com/portfolio/mavscale/cloud-native-automation/">Cloud-Native Automation</a></li>
+	</ul>
+</li>
+</ul></div>
+</li>
+<li id="menu-item-51252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51252"><a href="https://www.mavenir.com/services/">Services</a>
+<div class='sub-menu-simple js-sub-menu'><div class='plain-menu-label'><span class='nav-main__prev'></span>Services</div><ul class="sub-menu ul-lvl-1">
+	<li id="menu-item-48988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48988"><a href="https://www.mavenir.com/services/maintenance-and-support/">Maintenance and Support</a></li>
+	<li id="menu-item-48990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48990"><a href="https://www.mavenir.com/services/enhanced-care-services/">Enhanced Care Services</a></li>
+	<li id="menu-item-48989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48989"><a href="https://www.mavenir.com/services/professional-services/">Professional Services</a></li>
+	<li id="menu-item-48991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48991"><a href="https://www.mavenir.com/services/systems-integration-services/">Systems Integration Services</a></li>
+</ul></div>
+</li>
+<li id="menu-item-750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-750"><div class='plain-menu-item'>Newsroom</div>
+<div class='sub-menu-simple js-sub-menu'><div class='plain-menu-label'><span class='nav-main__prev'></span>Newsroom</div><ul class="sub-menu ul-lvl-1">
+	<li id="menu-item-47552" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-47552"><a href="https://www.mavenir.com/newsroom/blog/">Blog</a></li>
+	<li id="menu-item-45773" class="menu-item menu-item-type-post_type_archive menu-item-object-press-releases menu-item-45773"><a href="https://www.mavenir.com/newsroom/press-releases/">Press Releases</a></li>
+	<li id="menu-item-45774" class="menu-item menu-item-type-post_type_archive menu-item-object-news menu-item-45774"><a href="https://www.mavenir.com/newsroom/news/">News</a></li>
+	<li id="menu-item-46458" class="menu-item menu-item-type-post_type_archive menu-item-object-events menu-item-46458"><a href="https://www.mavenir.com/newsroom/events/">Events</a></li>
+	<li id="menu-item-50610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50610"><a href="https://www.mavenir.com/media-relations/">Media Relations</a></li>
+	<li id="menu-item-49315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49315"><a href="https://www.mavenir.com/newsletter/">Newsletter</a></li>
+</ul></div>
+</li>
+<li id="menu-item-968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-968"><a href="https://www.mavenir.com/about/">About</a>
+<div class='sub-menu-simple js-sub-menu'><div class='plain-menu-label'><span class='nav-main__prev'></span>About</div><ul class="sub-menu ul-lvl-1">
+	<li id="menu-item-52352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52352"><a href="/about/#leadership">Leadership</a></li>
+	<li id="menu-item-52354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52354"><a href="/about/#board_of_directors">Board of Directors</a></li>
+	<li id="menu-item-52361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52361"><a href="https://www.mavenir.com/media-relations/">Media Relations</a></li>
+	<li id="menu-item-52353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52353"><a href="/about/#ecosystem">Ecosystem</a></li>
+	<li id="menu-item-50612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50612"><a href="https://www.mavenir.com/about/careers/">Careers</a></li>
+	<li id="menu-item-50613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50613"><a href="https://www.mavenir.com/locations/">Locations</a></li>
+	<li id="menu-item-52355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52355"><a href="https://www.mavenir.com/corporate-responsibility/">Corporate Responsibility</a></li>
+</ul></div>
+</li>
+<li id="menu-item-45772" class="menu-item menu-item-type-post_type_archive menu-item-object-resources menu-item-has-children menu-item-45772"><a href="https://www.mavenir.com/mavenir-resources/">Resources</a>
+<div class='sub-menu-simple js-sub-menu'><div class='plain-menu-label'><span class='nav-main__prev'></span>Resources</div><ul class="sub-menu ul-lvl-1">
+	<li id="menu-item-60128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60128"><a href="https://www.mavenir.com/mavenir-resources/?resource_type=white-paper">White Papers</a></li>
+	<li id="menu-item-56947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56947"><a href="https://www.mavenir.com/case-studies/">Case Studies</a></li>
+	<li id="menu-item-60129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60129"><a href="https://www.mavenir.com/mavenir-resources/?resource_type=solution-brief">Solution Briefs</a></li>
+	<li id="menu-item-60130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60130"><a href="https://www.mavenir.com/mavenir-resources/?resource_type=video">Videos</a></li>
+	<li id="menu-item-60131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60131"><a href="https://www.mavenir.com/mavenir-resources/?resource_type=webinar">Webinars</a></li>
+	<li id="menu-item-60132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60132"><a href="https://www.mavenir.com/mavenir-resources/">All Resources</a></li>
+</ul></div>
+</li>
+</ul>            </div>
+        </div>
+    </div>
+
+					
+				            </div>
+
+            <div class="site-header__col -right">
+				
+					
+						
+<div class="site-header__widget">
+	        <div class="site-search -toggle">
+            <div class="search-overlay is-hidden" data-js="search-target">
+                <a href="#" role="button" class="search-overlay__close" data-js="search-close">x</a>
+				<form role="search" method="get" class="search-form" action="https://www.mavenir.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>            </div>
+            <button role="button" class="c-btn -normal -primary has-icon icon-right site-search__toggle" data-js="search-trigger">
+	            <span class="c-btn__txt">search</span>
+	            <span class="c-btn__ico">
+		            <svg width="30" height="30" class="icon icon-search "  aria-hidden="true" role="img"><use xlink:href="#search"></use></svg>	            </span>
+            </button>
+        </div>
+	</div>
+
+					
+						<div class="site-header__widget">
+		
+    <div class="c-block__btn c-btn-bar">
+		<a href="/contact-us/"  class="c-btn -normal -primary has-icon icon-right "><span class="c-btn__txt">connect</span><span class="c-btn__ico"><svg width="30" height="30" class="icon icon-lib-icon-arrow1 "  aria-hidden="true" role="img"><use xlink:href="#lib-icon-arrow1"></use></svg></span></a>		    </div>
+
+	</div>
+
+
+					
+				            </div>
+
+        </div>
+    </div>
+
+
+<div class="navbar-mobile">
+
+	
+<div class="site-header__widget">
+	        <a href="https://www.mavenir.com" class="site-header__logo">
+			
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="221" zoomAndPan="magnify" viewBox="0 0 165.75 30.000001" height="40" preserveAspectRatio="xMidYMid meet" version="1.0"><defs><clipPath id="c0af41337d"><path d="M 159 0 L 162.957031 0 L 162.957031 4 L 159 4 Z M 159 0 " clip-rule="nonzero"/></clipPath></defs><path fill="#ed1c2b" d="M 3.828125 25.832031 L 28.472656 25.832031 C 28.597656 25.832031 28.707031 25.878906 28.796875 25.964844 C 28.882812 26.054688 28.929688 26.160156 28.929688 26.285156 L 28.929688 28.347656 C 28.929688 28.472656 28.882812 28.578125 28.796875 28.667969 C 28.707031 28.757812 28.597656 28.800781 28.472656 28.800781 L 3.828125 28.800781 C 3.699219 28.800781 3.59375 28.757812 3.503906 28.667969 C 3.414062 28.578125 3.371094 28.472656 3.371094 28.347656 L 3.371094 26.285156 C 3.371094 26.160156 3.414062 26.054688 3.503906 25.964844 C 3.59375 25.878906 3.699219 25.832031 3.828125 25.832031 Z M 3.828125 25.832031 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 36.179688 22.390625 C 36.082031 22.609375 35.820312 22.863281 35.429688 22.863281 L 33.378906 22.863281 C 32.890625 22.863281 32.628906 22.453125 32.824219 22.042969 L 42.828125 0.765625 C 42.929688 0.578125 43.21875 0.417969 43.382812 0.417969 L 43.707031 0.417969 C 43.871094 0.417969 44.164062 0.578125 44.261719 0.765625 L 54.199219 22.042969 C 54.394531 22.453125 54.136719 22.863281 53.648438 22.863281 L 51.59375 22.863281 C 51.203125 22.863281 50.972656 22.675781 50.84375 22.390625 L 43.578125 6.675781 L 43.414062 6.675781 Z M 36.179688 22.390625 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 7.636719 0.894531 C 7.703125 0.640625 7.964844 0.417969 8.222656 0.417969 L 8.746094 0.417969 C 8.941406 0.417969 9.234375 0.578125 9.300781 0.765625 L 16.109375 16.921875 L 16.242188 16.921875 L 23.019531 0.765625 C 23.082031 0.578125 23.34375 0.417969 23.574219 0.417969 L 24.09375 0.417969 C 24.351562 0.417969 24.613281 0.640625 24.679688 0.894531 L 28.6875 22.136719 C 28.785156 22.578125 28.558594 22.863281 28.101562 22.863281 L 25.984375 22.863281 C 25.691406 22.863281 25.433594 22.644531 25.367188 22.421875 L 22.953125 8.289062 L 22.855469 8.289062 L 16.992188 22.832031 C 16.925781 23.019531 16.730469 23.179688 16.4375 23.179688 L 15.851562 23.179688 C 15.59375 23.179688 15.363281 23.019531 15.296875 22.832031 L 9.398438 8.289062 L 9.269531 8.289062 L 6.921875 22.421875 C 6.890625 22.644531 6.59375 22.863281 6.335938 22.863281 L 4.21875 22.863281 C 3.761719 22.863281 3.535156 22.578125 3.597656 22.136719 L 7.640625 0.894531 Z M 7.636719 0.894531 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 53.738281 1.558594 C 53.542969 1.144531 53.800781 0.734375 54.289062 0.734375 L 56.605469 0.734375 C 56.863281 0.734375 57.09375 0.925781 57.160156 1.082031 L 64.328125 16.730469 L 64.523438 16.730469 L 71.691406 1.082031 C 71.757812 0.925781 71.953125 0.734375 72.246094 0.734375 L 74.558594 0.734375 C 75.046875 0.734375 75.308594 1.148438 75.113281 1.558594 L 65.109375 22.835938 C 65.007812 23.023438 64.816406 23.179688 64.554688 23.179688 L 64.230469 23.179688 C 64 23.179688 63.773438 23.023438 63.675781 22.835938 Z M 53.738281 1.558594 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 81.078125 1.335938 C 81.078125 1.019531 81.335938 0.734375 81.699219 0.734375 L 94.734375 0.734375 C 95.09375 0.734375 95.351562 1.019531 95.351562 1.335938 L 95.351562 3.105469 C 95.351562 3.421875 95.09375 3.707031 94.734375 3.707031 L 84.433594 3.707031 L 84.433594 10.15625 L 93.136719 10.15625 C 93.460938 10.15625 93.753906 10.441406 93.753906 10.757812 L 93.753906 12.527344 C 93.753906 12.875 93.460938 13.128906 93.136719 13.128906 L 84.433594 13.128906 L 84.433594 19.925781 L 94.734375 19.925781 C 95.09375 19.925781 95.351562 20.210938 95.351562 20.523438 L 95.351562 22.265625 C 95.351562 22.578125 95.09375 22.863281 94.734375 22.863281 L 81.699219 22.863281 C 81.339844 22.863281 81.078125 22.578125 81.078125 22.265625 Z M 81.078125 1.335938 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 102.675781 0.988281 C 102.675781 0.675781 102.96875 0.421875 103.292969 0.421875 L 104.109375 0.421875 L 118.253906 16.289062 L 118.285156 16.289062 L 118.285156 1.335938 C 118.285156 1.019531 118.542969 0.734375 118.902344 0.734375 L 120.988281 0.734375 C 121.316406 0.734375 121.609375 1.019531 121.609375 1.335938 L 121.609375 22.613281 C 121.609375 22.929688 121.316406 23.179688 120.988281 23.179688 L 120.140625 23.179688 L 106 6.867188 L 105.96875 6.867188 L 105.96875 22.265625 C 105.96875 22.578125 105.707031 22.863281 105.347656 22.863281 L 103.292969 22.863281 C 102.96875 22.863281 102.675781 22.578125 102.675781 22.265625 Z M 102.675781 0.988281 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 130.042969 1.335938 C 130.042969 1.019531 130.339844 0.734375 130.664062 0.734375 L 132.816406 0.734375 C 133.140625 0.734375 133.4375 1.019531 133.4375 1.335938 L 133.4375 22.265625 C 133.4375 22.582031 133.140625 22.867188 132.816406 22.867188 L 130.664062 22.867188 C 130.339844 22.867188 130.042969 22.582031 130.042969 22.265625 Z M 130.042969 1.335938 " fill-opacity="1" fill-rule="nonzero"/><path fill="#005c97" d="M 153.964844 13.917969 C 156.800781 12.8125 158.785156 10.410156 158.785156 7.5 C 158.785156 3.738281 155.59375 0.734375 151.683594 0.734375 L 142.820312 0.734375 C 142.460938 0.734375 142.199219 1.019531 142.199219 1.335938 L 142.199219 22.265625 C 142.199219 22.582031 142.457031 22.867188 142.820312 22.867188 L 144.9375 22.867188 C 145.261719 22.867188 145.554688 22.582031 145.554688 22.265625 L 145.554688 14.203125 L 150.476562 14.203125 L 154.808594 22.582031 C 154.875 22.707031 155.070312 22.867188 155.332031 22.867188 L 157.875 22.867188 C 158.425781 22.867188 158.65625 22.359375 158.425781 21.949219 L 153.960938 13.921875 Z M 145.621094 11.484375 L 145.621094 3.800781 L 151.421875 3.800781 C 153.539062 3.800781 155.398438 5.507812 155.398438 7.5625 C 155.398438 9.746094 153.539062 11.484375 151.421875 11.484375 Z M 145.621094 11.484375 " fill-opacity="1" fill-rule="nonzero"/><g clip-path="url(#c0af41337d)"><path fill="#005c97" d="M 160.796875 0.734375 C 161.074219 0.734375 161.339844 0.804688 161.59375 0.941406 C 161.847656 1.078125 162.046875 1.277344 162.191406 1.53125 C 162.335938 1.789062 162.410156 2.058594 162.410156 2.339844 C 162.410156 2.617188 162.339844 2.882812 162.199219 3.136719 C 162.054688 3.390625 161.855469 3.585938 161.601562 3.730469 C 161.347656 3.871094 161.078125 3.941406 160.796875 3.941406 C 160.519531 3.941406 160.25 3.871094 159.996094 3.730469 C 159.742188 3.589844 159.542969 3.390625 159.398438 3.136719 C 159.257812 2.882812 159.1875 2.617188 159.1875 2.339844 C 159.1875 2.058594 159.257812 1.789062 159.40625 1.53125 C 159.550781 1.277344 159.75 1.078125 160.003906 0.941406 C 160.257812 0.804688 160.523438 0.734375 160.796875 0.734375 Z M 160.800781 1.046875 C 160.578125 1.046875 160.367188 1.101562 160.164062 1.214844 C 159.957031 1.324219 159.800781 1.484375 159.679688 1.691406 C 159.5625 1.894531 159.503906 2.113281 159.503906 2.339844 C 159.503906 2.566406 159.5625 2.777344 159.675781 2.980469 C 159.792969 3.183594 159.953125 3.34375 160.15625 3.460938 C 160.359375 3.574219 160.574219 3.628906 160.796875 3.628906 C 161.023438 3.628906 161.238281 3.574219 161.445312 3.460938 C 161.648438 3.34375 161.808594 3.1875 161.921875 2.980469 C 162.035156 2.777344 162.09375 2.5625 162.09375 2.339844 C 162.09375 2.113281 162.035156 1.894531 161.917969 1.691406 C 161.800781 1.484375 161.640625 1.324219 161.4375 1.214844 C 161.230469 1.101562 161.019531 1.046875 160.796875 1.046875 Z M 160.070312 3.195312 L 160.070312 1.492188 L 160.417969 1.492188 C 160.746094 1.492188 160.925781 1.492188 160.964844 1.496094 C 161.078125 1.507812 161.167969 1.527344 161.234375 1.566406 C 161.296875 1.601562 161.351562 1.652344 161.394531 1.730469 C 161.4375 1.800781 161.457031 1.882812 161.457031 1.972656 C 161.457031 2.097656 161.417969 2.199219 161.335938 2.289062 C 161.253906 2.375 161.140625 2.429688 160.996094 2.449219 C 161.046875 2.46875 161.085938 2.492188 161.117188 2.515625 C 161.144531 2.539062 161.183594 2.582031 161.230469 2.644531 C 161.246094 2.660156 161.289062 2.730469 161.355469 2.851562 L 161.558594 3.195312 L 161.128906 3.195312 L 160.988281 2.917969 C 160.890625 2.734375 160.808594 2.617188 160.746094 2.566406 C 160.683594 2.519531 160.601562 2.496094 160.507812 2.496094 L 160.417969 2.496094 L 160.417969 3.195312 Z M 160.417969 2.230469 L 160.558594 2.230469 C 160.761719 2.230469 160.886719 2.222656 160.933594 2.207031 C 160.984375 2.191406 161.019531 2.164062 161.050781 2.125 C 161.078125 2.085938 161.09375 2.042969 161.09375 1.996094 C 161.09375 1.945312 161.078125 1.90625 161.050781 1.867188 C 161.023438 1.832031 160.984375 1.804688 160.933594 1.789062 C 160.882812 1.773438 160.757812 1.765625 160.5625 1.765625 L 160.421875 1.765625 L 160.421875 2.230469 Z M 160.417969 2.230469 " fill-opacity="1" fill-rule="nonzero"/></g></svg>
+			        </a>
+	</div>
+
+	        
+<div class="site-header__widget">
+	        <div class="site-search -toggle">
+            <div class="search-overlay is-hidden" data-js="search-mobile-target">
+                <a href="#" role="button" class="search-overlay__close" data-js="search-mobile-close">x</a>
+				<form role="search" method="get" class="search-form" action="https://www.mavenir.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>            </div>
+            <button role="button" class="site-search__toggle" data-js="search-mobile-trigger">
+                <span aria-hidden="true" class="sr-only">Open Search</span>
+				<svg width="30" height="30" class="icon icon-search site-search__icon"  aria-hidden="true" role="img"><use xlink:href="#search"></use></svg>            </button>
+        </div>
+	</div>
+        <div class="nav-main__btn js-mobileNav -mobile" aria-expanded="false">
+            <div class="burger-icon">
+                <div></div>
+            </div>
+        </div>
+        <div class="navbar-mobile__inner">
+            <div class="navbar-mobile__holder">
+			
+				
+					    <div class="site-header__widget">
+        <div class="nav-main__wrap">
+            <div class="nav-main">
+				<ul id="menu-primary-menu-1" class="nav-main__links"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48730"><a href="https://www.mavenir.com/solutions/">Solutions</a>
+<div class='sub-menu-simple js-sub-menu'><div class='plain-menu-label'><span class='nav-main__prev'></span>Solutions</div><ul class="sub-menu ul-lvl-1">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48731"><a href="https://www.mavenir.com/solutions/evolve-5g/">5G Evolution</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56256"><a href="https://www.mavenir.com/solutions/5g-signaling/">5G Signaling</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48995"><a href="https://www.mavenir.com/solutions/cell-broadcast/">Cell Broadcast</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48732"><a href="https://www.mavenir.com/solutions/fixed-wireless-access/">Fixed Wireless Access</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67347"><a href="https://www.mavenir.com/solutions/inbound-roaming-solution-for-4g-5g-voice/">Inbound Roaming for 4G/5G Voice</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56725"><a href="https://www.mavenir.com/solutions/mining-solution/">Mining Solution</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68336"><a href="https://www.mavenir.com/solutions/mvno-solutions/">MVNO Solutions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48994"><a href="https://www.mavenir.com/solutions/network-as-a-hosted-service-naahs/">Network-as-a-Hosted Service (NaaHS)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48733"><a href="https://www.mavenir.com/solutions/network-automation/">Network Automation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48998"><a href="https://www.mavenir.com/solutions/mobile-network-cost-reduction/">Network Cost Reduction</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48993"><a href="https://www.mavenir.com/portfolio/mavapps/fraud-security/">Network Protection</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48997"><a href="https://www.mavenir.com/solutions/new-revenue-generation/">New Revenue Generation</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-52262 has-mega-menu"><a href="https://www.mavenir.com/#portfolio">MAV Portfolio</a>
+<div class='sub-menu-mega js-sub-menu'><div class='plain-menu-label'><span class='nav-main__prev'></span>MAV Portfolio</div><ul class="sub-menu ul-lvl-1">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48955"><a href="https://www.mavenir.com/portfolio/mavcore/"><div class="menu-item-img-wrapper"><img src="https://www.mavenir.com/wp-content/uploads/2022/10/MAVcore-blue-1-1.svg" alt="mavcore-blue-1-1" class="menu-item-image"></div><div class="menu-item-content">MAVcore®</div></a>
+	<ul class="sub-menu js-sub2-menu ul-lvl-2">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61764"><a href="https://www.mavenir.com/portfolio/mavcore/cloud-native-ims/">Cloud-Native IMS</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61748"><a href="/portfolio/mavcore/messaging-solutions">Messaging Solutions</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61765"><a href="https://www.mavenir.com/portfolio/mavcore/converged-packet-core/">Converged Packet Core</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48956"><a href="https://www.mavenir.com/portfolio/mavair/"><div class="menu-item-img-wrapper"><img src="https://www.mavenir.com/wp-content/uploads/2022/09/MAVair-blue.svg" alt="mavair-blue" class="menu-item-image"></div><div class="menu-item-content">MAVair®</div></a>
+	<ul class="sub-menu js-sub2-menu ul-lvl-2">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48974"><a href="https://www.mavenir.com/portfolio/mavair/radio-access/">Radio/Access</a>
+		<ul class="sub-menu ul-lvl-3">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48975"><a href="https://www.mavenir.com/portfolio/mavair/radio-access/vran/">Open vRAN</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48976"><a href="https://www.mavenir.com/portfolio/mavair/openbeam/">OpenBeam®</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48977"><a href="https://www.mavenir.com/portfolio/mavair/radio-access/small-cell-solutions/">Small Cell Solutions</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58732"><a href="https://www.mavenir.com/portfolio/mavair/radio-access/virtual-cell-site-router-vcsr/">Virtual Cell Site Router (vCSR) </a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66297"><a href="https://www.mavenir.com/portfolio/mavair/non-terrestrial-network-ntn/">Non-Terrestrial Network (NTN)</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48957"><a href="https://www.mavenir.com/portfolio/mavedge/"><div class="menu-item-img-wrapper"><img src="https://www.mavenir.com/wp-content/uploads/2022/09/MAVedge-blue.svg" alt="mavedge-blue" class="menu-item-image"></div><div class="menu-item-content">MAVedge®</div></a>
+	<ul class="sub-menu js-sub2-menu ul-lvl-2">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48980"><a href="https://www.mavenir.com/portfolio/mavedge/cbrs-ongo-private-networks/">CBRS/OnGo Private Networks</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48979"><a href="https://www.mavenir.com/portfolio/mavedge/private-networks/">Private Networks</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48982"><a href="https://www.mavenir.com/portfolio/mavedge/intelligent-iot-platform-iiotp/">Intelligent IoT Platform (IIoTP)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48978"><a href="https://www.mavenir.com/portfolio/mavedge/mec/">Multi-Access Edge Computing</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48958"><a href="https://www.mavenir.com/portfolio/mavapps/"><div class="menu-item-img-wrapper"><img src="https://www.mavenir.com/wp-content/uploads/2022/09/MAVapps-blue.svg" alt="mavapps-blue" class="menu-item-image"></div><div class="menu-item-content">MAVapps®</div></a>
+	<ul class="sub-menu js-sub2-menu ul-lvl-2">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66132"><a href="https://www.mavenir.com/portfolio/mavapps/mavenir-digital-enablement-bss/">Digital Enablement BSS</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48969"><a href="https://www.mavenir.com/portfolio/mavapps/fraud-security/">Fraud and Security Suite</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48960"><a href="https://www.mavenir.com/portfolio/mavscale/"><div class="menu-item-img-wrapper"><img src="https://www.mavenir.com/wp-content/uploads/2022/10/MAVcore-blue-1-6.svg" alt="mavcore-blue-1-6" class="menu-item-image"></div><div class="menu-item-content">MAVscale®</div></a>
+	<ul class="sub-menu js-sub2-menu ul-lvl-2">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48981"><a href="https://www.mavenir.com/portfolio/mavscale/ai-analytics/">AI &#038; Analytics</a>
+		<ul class="sub-menu ul-lvl-3">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65665"><a href="https://www.mavenir.com/portfolio/mavscale/ai-analytics/network-intelligence-as-a-service-niaas/">Network Intelligence as a Service (NIaaS)</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48984"><a href="https://www.mavenir.com/portfolio/mavscale/ai-analytics/ran-intelligent-controller-ric/">RAN Intelligent Controller (RIC)</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48987"><a href="https://www.mavenir.com/portfolio/mavscale/webscale-platform/">Webscale Platform</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65664"><a href="https://www.mavenir.com/portfolio/mavscale/cloud-native-automation/">Cloud-Native Automation</a></li>
+	</ul>
+</li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51252"><a href="https://www.mavenir.com/services/">Services</a>
+<div class='sub-menu-simple js-sub-menu'><div class='plain-menu-label'><span class='nav-main__prev'></span>Services</div><ul class="sub-menu ul-lvl-1">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48988"><a href="https://www.mavenir.com/services/maintenance-and-support/">Maintenance and Support</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48990"><a href="https://www.mavenir.com/services/enhanced-care-services/">Enhanced Care Services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48989"><a href="https://www.mavenir.com/services/professional-services/">Professional Services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48991"><a href="https://www.mavenir.com/services/systems-integration-services/">Systems Integration Services</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-750"><div class='plain-menu-item'>Newsroom</div>
+<div class='sub-menu-simple js-sub-menu'><div class='plain-menu-label'><span class='nav-main__prev'></span>Newsroom</div><ul class="sub-menu ul-lvl-1">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-47552"><a href="https://www.mavenir.com/newsroom/blog/">Blog</a></li>
+	<li class="menu-item menu-item-type-post_type_archive menu-item-object-press-releases menu-item-45773"><a href="https://www.mavenir.com/newsroom/press-releases/">Press Releases</a></li>
+	<li class="menu-item menu-item-type-post_type_archive menu-item-object-news menu-item-45774"><a href="https://www.mavenir.com/newsroom/news/">News</a></li>
+	<li class="menu-item menu-item-type-post_type_archive menu-item-object-events menu-item-46458"><a href="https://www.mavenir.com/newsroom/events/">Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50610"><a href="https://www.mavenir.com/media-relations/">Media Relations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49315"><a href="https://www.mavenir.com/newsletter/">Newsletter</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-968"><a href="https://www.mavenir.com/about/">About</a>
+<div class='sub-menu-simple js-sub-menu'><div class='plain-menu-label'><span class='nav-main__prev'></span>About</div><ul class="sub-menu ul-lvl-1">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52352"><a href="/about/#leadership">Leadership</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52354"><a href="/about/#board_of_directors">Board of Directors</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52361"><a href="https://www.mavenir.com/media-relations/">Media Relations</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52353"><a href="/about/#ecosystem">Ecosystem</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50612"><a href="https://www.mavenir.com/about/careers/">Careers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50613"><a href="https://www.mavenir.com/locations/">Locations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52355"><a href="https://www.mavenir.com/corporate-responsibility/">Corporate Responsibility</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-resources menu-item-has-children menu-item-45772"><a href="https://www.mavenir.com/mavenir-resources/">Resources</a>
+<div class='sub-menu-simple js-sub-menu'><div class='plain-menu-label'><span class='nav-main__prev'></span>Resources</div><ul class="sub-menu ul-lvl-1">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60128"><a href="https://www.mavenir.com/mavenir-resources/?resource_type=white-paper">White Papers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56947"><a href="https://www.mavenir.com/case-studies/">Case Studies</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60129"><a href="https://www.mavenir.com/mavenir-resources/?resource_type=solution-brief">Solution Briefs</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60130"><a href="https://www.mavenir.com/mavenir-resources/?resource_type=video">Videos</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60131"><a href="https://www.mavenir.com/mavenir-resources/?resource_type=webinar">Webinars</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60132"><a href="https://www.mavenir.com/mavenir-resources/">All Resources</a></li>
+</ul></div>
+</li>
+</ul>            </div>
+        </div>
+    </div>
+
+				
+					<div class="site-header__widget">
+		
+    <div class="c-block__btn c-btn-bar">
+		<a href="/contact-us/"  class="c-btn -normal -primary has-icon icon-right "><span class="c-btn__txt">Connect</span><span class="c-btn__ico"><svg width="30" height="30" class="icon icon-lib-icon-arrow1 "  aria-hidden="true" role="img"><use xlink:href="#lib-icon-arrow1"></use></svg></span></a>		    </div>
+
+	</div>
+
+
+				
+					    <div class="site-header__widget">
+              
+        <div class="nav-secondary -cols" style="--menu-items:5">
+            
+
+			<ul id="menu-footer-menu-1" class="nav-secondary__links"><li id="menu-item-52363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52363"><a href="https://www.mavenir.com/contact-us/">Contact</a></li>
+<li id="menu-item-52365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52365"><a href="https://www.mavenir.com/locations/">Locations</a></li>
+<li id="menu-item-52362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52362"><a href="https://www.mavenir.com/about/careers/">Careers</a></li>
+<li id="menu-item-52376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52376"><a href="/sitemap_index.xml">Sitemap</a></li>
+<li id="menu-item-52366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52366"><a href="https://www.mavenir.com/terms-use/">Terms of Use</a></li>
+<li id="menu-item-52367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52367"><a href="https://www.mavenir.com/data-privacy-notice/">Data Privacy Policy</a></li>
+<li id="menu-item-52368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52368"><a href="https://www.mavenir.com/cookie-policy/">Cookie Policy Notice</a></li>
+<li id="menu-item-52369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52369"><a href="https://www.mavenir.com/data-privacy-framework-notice/">Privacy Framework Notice</a></li>
+<li id="menu-item-52370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52370"><a href="https://www.mavenir.com/mavenirs-site-feedback/">Site Feedback</a></li>
+</ul>        </div>
+    </div>
+
+				
+					    <div class="site-header__widget">
+        <div class="nav-secondary -v2">
+			<ul id="menu-footer-menu-2" class="nav-secondary__links"><li id="menu-item-52371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52371"><a href="https://www.mavenir.com/corporate-responsibility/">Corporate Responsibility</a></li>
+<li id="menu-item-52372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52372"><a href="https://www.mavenir.com/regulatory-compliance/">Regulatory Compliance</a></li>
+<li id="menu-item-52373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52373"><a href="https://www.mavenir.com/modern-slavery-and-human-trafficking-statement/">Modern Slavery and Human Trafficking Statement</a></li>
+</ul>        </div>
+    </div>
+
+				
+			            </div>
+        </div>
+	</div>
+
+
+    </header>
+
+	        <main class="site-content" role="main">
+		
+
+
+<div class="page-content p-404">
+
+    <div class="p-404__inner inner-frame">
+
+        <div class="page-title p-404__title">404</div>
+
+        <div class="p-404__text">
+            The page you are looking for has moved. Apologies for the inconvenience.        </div>
+
+        <div class="p-404__search blog-filter gb">
+            <form role="search" method="get" action="https://www.mavenir.com">
+                <div class="blog-filter__search">
+                    <input class="blog-filter__search-field" type="text" name="s" value="" placeholder="Search...">
+                    <button class="blog-filter__search-btn" type="submit" role="button" value="">
+                        <span class="s-btn-text">Search</span>
+			            <svg width="30" height="30" class="icon icon-search-icon site-search__icon"  aria-hidden="true" role="img"><use xlink:href="#search-icon"></use></svg>                    </button>
+                </div>
+            </form>
+        </div>
+
+        <div class="p-404__btn">
+            <a class="c-btn -normal -primary -large cta_1" href="/">
+                <span class="c-btn__txt">Go To Homepage</span>
+            </a>
+        </div>
+
+
+    </div>
+
+</div>
+
+
+        </main><!--main-->
+		
+<footer class="site-footer" role="contentinfo">
+
+    
+<div class="l-footer l-footer-v2">
+
+            <div class="l-footer__video-bg">
+            <video class="lazy" data-src="https://www.mavenir.com/wp-content/uploads/2025/02/footer-and-right-side-section-homepage.mp4" autoplay loop muted playsinline></video>
+        </div>
+    
+    <div class="footer-top">
+
+        <div class="footer-top__inner inner-frame">
+            <div class="footer__content">
+	                                <div class="footer-pretitle"><img class="responsive-image alignnone wp-image-47217" src="/wp-content/uploads/2025/02/footer-section.svg" alt="Portfolio of Software" style="max-width: 100%; height: auto;" /></div>
+	            	                                <div class="footer-title">trust the <span>Future</span></div>
+	            	                                                <a href="/contact-us"  class="c-btn -primary has-icon icon-right "><span class="c-btn__txt">Connect</span><span class="c-btn__ico"><svg width="30" height="30" class="icon icon-lib-icon-arrow1 "  aria-hidden="true" role="img"><use xlink:href="#lib-icon-arrow1"></use></svg></span></a>                            </div>
+
+                            <div class="footer__newsletter">
+	                                        <div class="footer-title">Stay Connected</div>
+	                
+	                
+                                            <div class="c-newsletter -hubspot">
+	                                                        <!--[if lte IE 8]>
+                                <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+                                <![endif]-->
+                                <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+                                <script>
+                                  hbspt.forms.create({
+                                    portalId: "3388965",
+                                    formId: "4ebf2f54-fe4c-4d94-9fc9-710b13c72472"
+                                  });
+                                </script>
+	                                                </div>
+                    
+	                                </div>
+            
+								<ul id="menu-footer-menu-3" class="footer-nav h-direction"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52363"><a href="https://www.mavenir.com/contact-us/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52365"><a href="https://www.mavenir.com/locations/">Locations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52362"><a href="https://www.mavenir.com/about/careers/">Careers</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52376"><a href="/sitemap_index.xml">Sitemap</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52366"><a href="https://www.mavenir.com/terms-use/">Terms of Use</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52367"><a href="https://www.mavenir.com/data-privacy-notice/">Data Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52368"><a href="https://www.mavenir.com/cookie-policy/">Cookie Policy Notice</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52369"><a href="https://www.mavenir.com/data-privacy-framework-notice/">Privacy Framework Notice</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52370"><a href="https://www.mavenir.com/mavenirs-site-feedback/">Site Feedback</a></li>
+</ul>			
+	        			        <ul id="menu-footer-menu-4" class="footer-nav -small h-direction"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52371"><a href="https://www.mavenir.com/corporate-responsibility/">Corporate Responsibility</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52372"><a href="https://www.mavenir.com/regulatory-compliance/">Regulatory Compliance</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52373"><a href="https://www.mavenir.com/modern-slavery-and-human-trafficking-statement/">Modern Slavery and Human Trafficking Statement</a></li>
+</ul>	        
+                <ul class="social-list -square -standard">
+		            <li class="social-list__item">
+				                    <a class="social-list__link" href="https://www.linkedin.com/company/mavenir/" target="_blank">
+						<svg width="30" height="30" class="icon icon-social-linkedin social-list__icon social-icon"  aria-hidden="true" role="img"><use xlink:href="#social-linkedin"></use></svg>                    </a>
+				            </li>
+		            <li class="social-list__item">
+				                    <a class="social-list__link" href="https://www.facebook.com/Mavenir" target="_blank">
+						<svg width="30" height="30" class="icon icon-social-facebook social-list__icon social-icon"  aria-hidden="true" role="img"><use xlink:href="#social-facebook"></use></svg>                    </a>
+				            </li>
+		            <li class="social-list__item">
+				                    <a class="social-list__link" href="https://twitter.com/Mavenir" target="_blank">
+						<svg width="30" height="30" class="icon icon-social-twitter social-list__icon social-icon"  aria-hidden="true" role="img"><use xlink:href="#social-twitter"></use></svg>                    </a>
+				            </li>
+		            <li class="social-list__item">
+				                    <a class="social-list__link" href="https://www.youtube.com/c/MavenirTube" target="_blank">
+						<svg width="30" height="30" class="icon icon-social-youtube social-list__icon social-icon"  aria-hidden="true" role="img"><use xlink:href="#social-youtube"></use></svg>                    </a>
+				            </li>
+		    </ul>
+        </div>
+    </div>
+
+
+    <div class="footer-bottom">
+        <div class="footer-bottom__inner inner-frame">
+			                <div class="copyright">&copy; 2025 Mavenir, All Rights Reserved</div>
+			            <ul class="contact-info">
+		        		        		        		                    </ul>
+            
+        </div>
+    </div>
+
+</div>
+
+</footer>
+
+</div><!-- wrapper -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/digitalexpress_2\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<div 
+	id="pum-68964" 
+	role="dialog" 
+	aria-modal="false"
+	class="pum pum-overlay pum-theme-68833 pum-theme-lightbox popmake-overlay auto_open click_open" 
+	data-popmake="{&quot;id&quot;:68964,&quot;slug&quot;:&quot;register-for-mvno-nation-live-2025-mvno-solution-page&quot;,&quot;theme_id&quot;:68833,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;delay&quot;:&quot;500&quot;}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]},&quot;conditions&quot;:[[{&quot;target&quot;:&quot;url_contains&quot;,&quot;not_operand&quot;:false,&quot;settings&quot;:{&quot;search&quot;:&quot;telesemana_hyperlink_ad_mavenir_powering_mvno&quot;},&quot;search&quot;:&quot;telesemana_hyperlink_ad_mavenir_powering_mvno&quot;},{&quot;target&quot;:&quot;url_contains&quot;,&quot;not_operand&quot;:false,&quot;settings&quot;:{&quot;search&quot;:&quot;telesemana_banner_ad_mavenir_powering_mvno&quot;},&quot;search&quot;:&quot;telesemana_banner_ad_mavenir_powering_mvno&quot;}]]}">
+
+	<div id="popmake-68964" class="pum-container popmake theme-68833 pum-responsive pum-responsive-small responsive size-small">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<p><script charset="utf-8" type="text/javascript" src="//js-na2.hsforms.net/forms/embed/v2.js"></script><br />
+<script>
+  hbspt.forms.create({
+    portalId: "3388965",
+    formId: "3f130de4-ea07-4f26-8447-e3bb8efb18de",
+    region: "na2"
+  });
+</script></p>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			×			</button>
+		
+	</div>
+
+</div>
+<div 
+	id="pum-68973" 
+	role="dialog" 
+	aria-modal="false"
+	class="pum pum-overlay pum-theme-68833 pum-theme-lightbox popmake-overlay auto_open click_open" 
+	data-popmake="{&quot;id&quot;:68973,&quot;slug&quot;:&quot;commsday-australia-homepage&quot;,&quot;theme_id&quot;:68833,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;delay&quot;:500}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]},&quot;conditions&quot;:[[{&quot;target&quot;:&quot;url_contains&quot;,&quot;not_operand&quot;:false,&quot;settings&quot;:{&quot;search&quot;:&quot;medium=commsday_australia&amp;utm_campaign=banner_ad_popup_homepage&quot;},&quot;search&quot;:&quot;medium=commsday_australia&amp;utm_campaign=banner_ad_popup_homepage&quot;}]]}">
+
+	<div id="popmake-68973" class="pum-container popmake theme-68833 pum-responsive pum-responsive-small responsive size-small">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<p><script charset="utf-8" type="text/javascript" src="//js-na2.hsforms.net/forms/embed/v2.js"></script><br />
+<script>
+  hbspt.forms.create({
+    portalId: "3388965",
+    formId: "1d026209-5d77-4a39-9055-6f8717e0a692",
+    region: "na2"
+  });
+</script></p>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			×			</button>
+		
+	</div>
+
+</div>
+<div 
+	id="pum-68882" 
+	role="dialog" 
+	aria-modal="false"
+	class="pum pum-overlay pum-theme-68833 pum-theme-lightbox popmake-overlay auto_open click_open" 
+	data-popmake="{&quot;id&quot;:68882,&quot;slug&quot;:&quot;register-for-latam-event-mavcore&quot;,&quot;theme_id&quot;:68833,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;delay&quot;:&quot;500&quot;}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.popup&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]},&quot;conditions&quot;:[[{&quot;target&quot;:&quot;url_is&quot;,&quot;not_operand&quot;:false,&quot;settings&quot;:{&quot;search&quot;:&quot;https:\/\/www.mavenir.com\/portfolio\/mavcore\/?utm_source=referral&amp;utm_medium=telesintese&amp;utm_campaign=hyperlink_ad_mavenirs_ai_powered_ran&quot;},&quot;search&quot;:&quot;https:\/\/www.mavenir.com\/portfolio\/mavcore\/?utm_source=referral&amp;utm_medium=telesintese&amp;utm_campaign=hyperlink_ad_mavenirs_ai_powered_ran&quot;},{&quot;target&quot;:&quot;url_is&quot;,&quot;not_operand&quot;:false,&quot;settings&quot;:{&quot;search&quot;:&quot;https:\/\/www.mavenir.com\/portfolio\/mavcore\/?utm_source=referral&amp;utm_medium=telesintese&amp;utm_campaign=banner_ad_mavenirs_ai_powered_ran&quot;},&quot;search&quot;:&quot;https:\/\/www.mavenir.com\/portfolio\/mavcore\/?utm_source=referral&amp;utm_medium=telesintese&amp;utm_campaign=banner_ad_mavenirs_ai_powered_ran&quot;}]]}">
+
+	<div id="popmake-68882" class="pum-container popmake theme-68833 pum-responsive pum-responsive-small responsive size-small">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<p><script charset="utf-8" type="text/javascript" src="//js-na2.hsforms.net/forms/embed/v2.js"></script><br />
+<script>
+  hbspt.forms.create({
+    portalId: "3388965",
+    formId: "b6424d3e-44a8-469e-a603-a5982d56875f",
+    region: "na2"
+  });
+</script></p>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			×			</button>
+		
+	</div>
+
+</div>
+<div 
+	id="pum-68848" 
+	role="dialog" 
+	aria-modal="false"
+	class="pum pum-overlay pum-theme-68833 pum-theme-lightbox popmake-overlay auto_open click_open" 
+	data-popmake="{&quot;id&quot;:68848,&quot;slug&quot;:&quot;register&quot;,&quot;theme_id&quot;:68833,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;delay&quot;:&quot;500&quot;}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]},&quot;conditions&quot;:[[{&quot;target&quot;:&quot;url_contains&quot;,&quot;not_operand&quot;:false,&quot;settings&quot;:{&quot;search&quot;:&quot;utm_campaign=hyperlink_mavenir_powering_mvno&quot;},&quot;search&quot;:&quot;utm_campaign=hyperlink_mavenir_powering_mvno&quot;},{&quot;target&quot;:&quot;url_contains&quot;,&quot;not_operand&quot;:false,&quot;settings&quot;:{&quot;search&quot;:&quot;utm_campaign=banner_ad_mavenir_powering_mvno&quot;},&quot;search&quot;:&quot;utm_campaign=banner_ad_mavenir_powering_mvno&quot;}]]}">
+
+	<div id="popmake-68848" class="pum-container popmake theme-68833 pum-responsive pum-responsive-small responsive size-small">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<p><script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script><br />
+<script>
+  hbspt.forms.create({
+    portalId: "3388965",
+    formId: "088e36d0-e60d-4eb1-b23f-d0c292a93172",
+    region: "na1"
+  });
+</script></p>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			×			</button>
+		
+	</div>
+
+</div>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/plugins/ds-contact-form-cfdb7/js/dscf7db.min.js?ver=1.4.6" id="dscf7db-js"></script>
+<script type="text/javascript" src="https://www.mavenir.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.mavenir.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.1" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.mavenir.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.1" id="contact-form-7-js"></script>
+<script type="text/javascript" id="ez-toc-scroll-scriptjs-js-extra">
+/* <![CDATA[ */
+var eztoc_smooth_local = {"scroll_offset":"30","add_request_uri":"","add_self_reference_link":""};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/plugins/easy-table-of-contents/assets/js/smooth_scroll.min.js?ver=2.0.76" id="ez-toc-scroll-scriptjs-js"></script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js?ver=2.2.1" id="ez-toc-js-cookie-js"></script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/plugins/easy-table-of-contents/vendor/sticky-kit/jquery.sticky-kit.min.js?ver=1.9.2" id="ez-toc-jquery-sticky-kit-js"></script>
+<script type="text/javascript" id="ez-toc-js-js-extra">
+/* <![CDATA[ */
+var ezTOC = {"smooth_scroll":"1","visibility_hide_by_default":"","scroll_offset":"30","fallbackIcon":"<span class=\"\"><span class=\"eztoc-hide\" style=\"display:none;\">Toggle<\/span><span class=\"ez-toc-icon-toggle-span\"><svg style=\"fill: #999;color:#999\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" class=\"list-377408\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\" fill=\"currentColor\"><\/path><\/svg><svg style=\"fill: #999;color:#999\" class=\"arrow-unsorted-368013\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"10px\" height=\"10px\" viewBox=\"0 0 24 24\" version=\"1.2\" baseProfile=\"tiny\"><path d=\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\"\/><\/svg><\/span><\/span>","chamomile_theme_is_on":""};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/plugins/easy-table-of-contents/assets/js/front.min.js?ver=2.0.76-1755714925" id="ez-toc-js-js"></script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.7" id="page-links-to-js"></script>
+<script type="text/javascript" src="https://www.mavenir.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="popup-maker-site-js-extra">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.20.5","pm_dir_url":"https:\/\/www.mavenir.com\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/www.mavenir.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.mavenir.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"68832","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"cookie_domain":"","analytics_route":"analytics","analytics_api":"https:\/\/www.mavenir.com\/wp-json\/pum\/v1","page":"-1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.mavenir.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-68964":{"triggers":[{"type":"auto_open","settings":{"cookie_name":"","delay":"500"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"explain":null,"type_section":null,"theme_id":"68833","size":"small","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":true,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":68964,"slug":"register-for-mvno-nation-live-2025-mvno-solution-page","conditions":[[{"target":"url_contains","not_operand":false,"settings":{"search":"telesemana_hyperlink_ad_mavenir_powering_mvno"},"search":"telesemana_hyperlink_ad_mavenir_powering_mvno"},{"target":"url_contains","not_operand":false,"settings":{"search":"telesemana_banner_ad_mavenir_powering_mvno"},"search":"telesemana_banner_ad_mavenir_powering_mvno"}]]},"pum-68973":{"triggers":[{"type":"auto_open","settings":{"delay":500}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"explain":null,"type_section":null,"theme_id":"68833","size":"small","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":68973,"slug":"commsday-australia-homepage","conditions":[[{"target":"url_contains","not_operand":false,"settings":{"search":"medium=commsday_australia&utm_campaign=banner_ad_popup_homepage"},"search":"medium=commsday_australia&utm_campaign=banner_ad_popup_homepage"}]]},"pum-68882":{"triggers":[{"type":"auto_open","settings":{"cookie_name":"","delay":"500"}},{"type":"click_open","settings":{"extra_selectors":".popup"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"explain":null,"type_section":null,"theme_id":"68833","size":"small","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":68882,"slug":"register-for-latam-event-mavcore","conditions":[[{"target":"url_is","not_operand":false,"settings":{"search":"https:\/\/www.mavenir.com\/portfolio\/mavcore\/?utm_source=referral&utm_medium=telesintese&utm_campaign=hyperlink_ad_mavenirs_ai_powered_ran"},"search":"https:\/\/www.mavenir.com\/portfolio\/mavcore\/?utm_source=referral&utm_medium=telesintese&utm_campaign=hyperlink_ad_mavenirs_ai_powered_ran"},{"target":"url_is","not_operand":false,"settings":{"search":"https:\/\/www.mavenir.com\/portfolio\/mavcore\/?utm_source=referral&utm_medium=telesintese&utm_campaign=banner_ad_mavenirs_ai_powered_ran"},"search":"https:\/\/www.mavenir.com\/portfolio\/mavcore\/?utm_source=referral&utm_medium=telesintese&utm_campaign=banner_ad_mavenirs_ai_powered_ran"}]]},"pum-68848":{"triggers":[{"type":"auto_open","settings":{"cookie_name":"","delay":"500"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"explain":null,"type_section":null,"theme_id":"68833","size":"small","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":68848,"slug":"register","conditions":[[{"target":"url_contains","not_operand":false,"settings":{"search":"utm_campaign=hyperlink_mavenir_powering_mvno"},"search":"utm_campaign=hyperlink_mavenir_powering_mvno"},{"target":"url_contains","not_operand":false,"settings":{"search":"utm_campaign=banner_ad_mavenir_powering_mvno"},"search":"utm_campaign=banner_ad_mavenir_powering_mvno"}]]}};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="//www.mavenir.com/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1756385659&amp;ver=1.20.5" id="popup-maker-site-js"></script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/vendors/aos/aos.js?ver=1" id="aos-js-js"></script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/vendors/swiper/swiper-bundle.min.js?ver=1" id="swiper-js-js"></script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/vendors/lazyload/lazyload.min.js?ver=1" id="js-lazyload-js"></script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/_dist/js/app.js?ver=1" id="main-js-js"></script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/_dist/js/vendor.js?ver=1" id="vendor-js-js"></script>
+<script type="text/javascript" defer src="https://www.mavenir.com/wp-content/themes/digitalexpress_2/assets/vendors/floatbox/floatbox.js?ver=1" id="floatbox-js"></script>
+		<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),
+                _trfd.push({'tccl.baseHost':'secureserver.net'}),
+                _trfd.push({'ap':'wpaas'},
+                    {'server':'ee8252ad-148f-740b-49dc-e5e7ff040aa9.secureserver.net'},
+                    {'pod':'P3NLWPPOD12'},
+                    {'storage':'p3cephmah006pod12_data16'},                     {'xid':'45138514'},
+                    {'wp':'6.8.2'},
+                    {'php':'8.2.26'},
+                    {'loggedin':'0'},
+                    {'cdn':'1'},
+                    {'builder':'wp-block-editor'},
+                    {'theme':'digitalexpress_2'},
+                    {'wds':'0'},
+                    {'wp_alloptions_count':'732'},
+                    {'wp_alloptions_bytes':'673730'},
+                    {'gdl_coming_soon_page':'0'}
+                                    );
+            var trafficScript = document.createElement('script'); trafficScript.src = 'https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js'; window.document.head.appendChild(trafficScript);</script>
+		<script>window.addEventListener('click', function (elem) { var _elem$target, _elem$target$dataset, _window, _window$_trfq; return (elem === null || elem === void 0 ? void 0 : (_elem$target = elem.target) === null || _elem$target === void 0 ? void 0 : (_elem$target$dataset = _elem$target.dataset) === null || _elem$target$dataset === void 0 ? void 0 : _elem$target$dataset.eid) && ((_window = window) === null || _window === void 0 ? void 0 : (_window$_trfq = _window._trfq) === null || _window$_trfq === void 0 ? void 0 : _window$_trfq.push(["cmdLogEvent", "click", elem.target.dataset.eid]));});</script>
+		<script src='https://img1.wsimg.com/traffic-assets/js/tccl-tti.min.js' onload="window.tti.calculateTTI()"></script>
+		
+</body>
+</html>
+
+
