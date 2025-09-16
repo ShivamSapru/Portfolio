@@ -1,26 +1,32 @@
-/* --- IMPORTS & VARIABLES --- */
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Roboto+Mono:wght@400;700&display=swap');
 
 :root {
     --electric-blue: #4FC3F7;
     --violet: #7C4DFF;
     --teal: #00E5FF;
-    --dark-bg: #0A0A0A;
-    --dark-surface: #1A1A1A;
-    --light-text: #E0E0E0;
-    --medium-text: #A0A0A0;
+
+    --dark-bg: #0A0F14;
+    --light-bg: #1A202C;
+    --panel-bg: rgba(26, 32, 44, 0.6);
+
+    --high-contrast-text: #F7FAFC;
+    --medium-text: #A0AEC0;
+    --low-contrast-text: #718096;
+
     --border-color: rgba(255, 255, 255, 0.1);
-    --font-sans: 'Inter', sans-serif;
+    --focus-ring: 2px solid var(--electric-blue);
+
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     --font-mono: 'Roboto Mono', monospace;
+
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    --shadow-neon: 0 0 15px rgba(79, 195, 247, 0.2), 0 0 5px rgba(79, 195, 247, 0.1);
 }
 
-/* --- RESET & BASE --- */
-*,
-*::before,
-*::after {
+*, *::before, *::after {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
 }
 
 html {
@@ -29,41 +35,43 @@ html {
 
 body {
     background-color: var(--dark-bg);
-    color: var(--light-text);
+    color: var(--medium-text);
     font-family: var(--font-sans);
     line-height: 1.6;
-    background-image:
-        radial-gradient(circle at 10% 10%, rgba(79, 195, 247, 0.1), transparent 30%),
-        radial-gradient(circle at 90% 80%, rgba(124, 77, 255, 0.1), transparent 35%);
-    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: radial-gradient(circle at 10% 10%, rgba(79, 195, 247, 0.1) 0%, transparent 30%),
+                      radial-gradient(circle at 90% 80%, rgba(124, 77, 255, 0.1) 0%, transparent 30%);
 }
 
-/* --- LAYOUT & TYPOGRAPHY --- */
 .container {
     max-width: 1100px;
     margin: 0 auto;
     padding: 0 2rem;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5, h6 {
+    color: var(--high-contrast-text);
     font-family: var(--font-mono);
-    color: white;
-    font-weight: 700;
+    margin: 0 0 1rem 0;
 }
 
 h2 {
-    font-size: 2rem;
-    margin-bottom: 2rem;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    border-bottom: 1px solid var(--border-color);
-    padding-bottom: 0.5rem;
-    display: inline-block;
+    font-size: 1.75rem;
+    color: var(--teal);
+    text-align: center;
+    margin-bottom: 3rem;
 }
 
 h2::before {
-    content: '>> ';
+    content: ">> ";
     color: var(--electric-blue);
+}
+
+p {
+    margin-bottom: 1rem;
 }
 
 a {
@@ -72,21 +80,29 @@ a {
     transition: color 0.3s ease;
 }
 
-a:hover {
+a:hover, a:focus {
     color: var(--teal);
+    outline: none;
 }
 
-/* --- HEADER & NAVIGATION --- */
+a:focus-visible {
+    outline: var(--focus-ring);
+    border-radius: 2px;
+}
+
+/* --- HEADER --- */
 .main-header {
-    padding: 2rem 0;
+    padding: 4rem 0;
     text-align: center;
 }
 
 .main-header h1 {
-    font-size: clamp(2.5rem, 5vw, 4rem);
-    background: -webkit-linear-gradient(45deg, var(--electric-blue), var(--violet), var(--teal));
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+    background: -webkit-linear-gradient(45deg, var(--electric-blue), var(--teal), var(--violet));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    margin-bottom: 0.5rem;
 }
 
 .main-header .subtitle {
@@ -117,7 +133,7 @@ section {
 }
 
 .project-card {
-    background: rgba(26, 26, 26, 0.5);
+    background: var(--panel-bg);
     border: 1px solid var(--border-color);
     border-radius: 8px;
     padding: 1.5rem;
@@ -128,7 +144,7 @@ section {
 
 .project-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2), 0 0 20px rgba(79, 195, 247, 0.3);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2), var(--shadow-neon);
 }
 
 .project-card h3 {
@@ -185,17 +201,16 @@ section {
 }
 
 .skill-category li::before {
-    content: '▹';
+    content: '»';
     position: absolute;
     left: 0;
     color: var(--electric-blue);
 }
 
-
 /* --- EXPERIENCE TIMELINE --- */
 .timeline {
     position: relative;
-    max-width: 800px;
+    max-width: 700px;
     margin: 0 auto;
 }
 
@@ -224,33 +239,65 @@ section {
     height: 16px;
     border-radius: 50%;
     background-color: var(--dark-bg);
-    border: 2px solid var(--electric-blue);
+    border: 3px solid var(--electric-blue);
     z-index: 1;
 }
 
 .timeline-item h3 {
-    margin: 0;
-    color: var(--light-text);
+    font-size: 1.1rem;
+    margin-bottom: 0.25rem;
 }
 
 .timeline-item span {
-    color: var(--violet);
-    font-family: var(--font-mono);
+    display: block;
     font-size: 0.9rem;
+    color: var(--low-contrast-text);
+    margin-bottom: 0.5rem;
+    font-family: var(--font-mono);
 }
 
-.timeline-item p {
-    color: var(--medium-text);
-    font-size: 0.9rem;
-    margin-top: 0.25rem;
+/* --- CONTACT SECTION --- */
+#contact {
+    text-align: center;
+}
+
+.contact-cta {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 0 auto 2rem auto;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: var(--electric-blue);
+    color: var(--dark-bg);
+    font-family: var(--font-mono);
+    padding: 0.75rem 2rem;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.cta-button:hover {
+    background-color: var(--teal);
+    transform: scale(1.05);
+    color: var(--dark-bg);
 }
 
 /* --- FOOTER --- */
 footer {
     text-align: center;
     padding: 2rem 0;
-    margin-top: 2rem;
+    margin-top: 4rem;
+    color: var(--low-contrast-text);
     border-top: 1px solid var(--border-color);
-    font-family: var(--font-mono);
-    color: var(--medium-text);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
 }

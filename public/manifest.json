@@ -1,0 +1,22 @@
+
+{
+    "short_name": "Shivam S.",
+    "name": "Shivam Sapru | Portfolio",
+    "icons": [
+        {
+            "src": "/images/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#0A0F14",
+    "display": "standalone",
+    "theme_color": "#0A0F14",
+    "description": "The personal portfolio of Shivam Sapru, a Software & ML Engineer."
+}

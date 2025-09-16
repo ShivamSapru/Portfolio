@@ -1,130 +1,177 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shivam Sapru | Software & ML Engineer</title>
-    <meta name="description" content="Personal portfolio of Shivam Sapru, a Software and ML Engineer specializing in cloud-native applications, MLOps, and scalable systems.">
+    <meta name="description" content="A modern, tech-forward personal portfolio for a software/ML engineer that is visually striking, performance-minded, and clearly communicates technical credibility and impact.">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://your-domain.com/">
+    <meta property="og:title" content="Shivam Sapru | Software & ML Engineer">
+    <meta property="og:description" content="Building scalable, intelligent systems with a focus on performance and impact.">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://your-domain.com/">
+    <meta property="twitter:title" content="Shivam Sapru | Software & ML Engineer">
+    <meta property="twitter:description" content="Building scalable, intelligent systems with a focus on performance and impact.">
+
     <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Shivam Sapru",
+        "url": "https://your-domain.com",
+        "email": "shivsapru.ss@gmail.com",
+        "jobTitle": "Software & Machine Learning Engineer",
+        "alumniOf": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "University College Dublin"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Manipal University Jaipur"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Mavenir"
+        }
+    }
+    </script>
 </head>
 <body>
-    <div class="container">
-        <header class="main-header">
+    <div id="webgl-canvas"></div>
+
+    <header class="main-header">
+        <div class="container">
             <h1>SHIVAM SAPRU</h1>
-            <p class="subtitle">Software & Machine Learning Engineer</p>
+            <p class="subtitle">Building scalable, intelligent systems with a focus on performance and impact.</p>
             <div class="contact-links">
                 <a href="mailto:shivsapru.ss@gmail.com">Email</a>
                 <a href="https://linkedin.com/in/shivam-sapru" target="_blank">LinkedIn</a>
                 <a href="https://github.com/ShivamSapru" target="_blank">GitHub</a>
             </div>
-        </header>
+            <div class="theme-toggle" id="theme-toggle" role="button" aria-label="Toggle theme">
+                <!-- Sun/Moon Icon -->
+            </div>
+        </div>
+    </header>
 
-        <main>
-            <section id="projects">
-                <h2>Featured Projects</h2>
-                <div class="project-grid">
-                    <!-- Project 1 -->
-                    <div class="project-card">
-                        <h3>Subtitle Translator (Microsoft)</h3>
-                        <p>Cloud-native subtitle translation platform using Azure AI, FastAPI, and React, featuring secure authentication and real-time processing.</p>
-                        <div class="tech-badges">
-                            <span class="tech-badge">Azure</span>
-                            <span class="tech-badge">FastAPI</span>
-                            <span class="tech-badge">React.js</span>
-                            <span class="tech-badge">Docker</span>
-                            <span class="tech-badge">CI/CD</span>
-                        </div>
-                        <a href="https://github.com/ShivamSapru/CS-GitLab" class="project-link" target="_blank">View on GitHub</a>
-                    </div>
-                    <!-- Project 2 -->
-                    <div class="project-card">
-                        <h3>Scalable E-Commerce Backend</h3>
-                        <p>High-performance backend using a Java & Spring microservices architecture, deployed on Kubernetes with full observability.</p>
-                         <div class="tech-badges">
-                            <span class="tech-badge">Java</span>
-                            <span class="tech-badge">Spring Boot</span>
-                            <span class="tech-badge">Kubernetes</span>
-                            <span class="tech-badge">Redis</span>
-                            <span class="tech-badge">RabbitMQ</span>
-                        </div>
-                        <a href="#" class="project-link">Private Repo</a>
-                    </div>
-                    <!-- Project 3 -->
-                    <div class="project-card">
-                        <h3>ReneWind (UCD)</h3>
-                        <p>Applied ML models to reduce generator maintenance costs, tackling class imbalance and delivering a production-ready pipeline.</p>
-                        <div class="tech-badges">
-                            <span class="tech-badge">Python</span>
-                            <span class="tech-badge">XGBoost</span>
-                            <span class="tech-badge">Scikit-learn</span>
-                            <span class="tech-badge">MLOps</span>
-                        </div>
-                        <a href="https://github.com/ShivamSapru/ReneWind" class="project-link" target="_blank">View on GitHub</a>
-                    </div>
+    <main class="container">
+        <section id="experience">
+            <h2>Experience</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <h3>Data Scientist Intern @ Mavenir</h3>
+                    <span>Jan 2024 – May 2024</span>
+                    <p>Enhanced MLOps workflows (MLflow, Kedro, ZenML), reducing deployment time by 20%. Automated ML pipelines with Apache Airflow and AWS S3.</p>
                 </div>
-            </section>
-
-            <section id="experience">
-                <h2>Experience</h2>
-                <div class="timeline">
-                    <div class="timeline-item">
-                        <h3>Data Scientist Intern @ Mavenir</h3>
-                        <span>Jan 2024 – May 2024</span>
-                        <p>Enhanced MLOps workflows, reducing deployment time by 20% and automated ML pipelines with Airflow and AWS S3.</p>
-                    </div>
-                    <div class="timeline-item">
-                        <h3>Machine Learning Intern @ Mavenir</h3>
-                        <span>Jun 2023 – Aug 2023</span>
-                        <p>Boosted time-series forecast accuracy by 11% through feature engineering and applied PyRCA for anomaly detection.</p>
-                    </div>
+                <div class="timeline-item">
+                    <h3>Machine Learning Intern @ Mavenir</h3>
+                    <span>Jun 2023 – Aug 2023</span>
+                    <p>Boosted time-series forecast accuracy by 11% through feature engineering. Applied PyRCA for anomaly detection.</p>
                 </div>
-            </section>
+            </div>
+        </section>
 
-            <section id="skills">
-                <h2>Skills Matrix</h2>
-                <div class="skills-matrix">
-                    <div class="skill-category">
-                        <h3>Languages & Databases</h3>
-                        <ul>
-                            <li>Python</li>
-                            <li>Java</li>
-                            <li>Go</li>
-                            <li>SQL</li>
-                            <li>PostgreSQL</li>
-                            <li>MongoDB</li>
-                        </ul>
+        <section id="projects">
+            <h2>Featured Projects</h2>
+            <div class="project-grid">
+                <div class="project-card">
+                    <h3>Subtitle Translator (Microsoft)</h3>
+                    <p>Developed a cloud-native subtitle translation platform using Azure AI, FastAPI, and React.js. Implemented CI/CD pipelines with Azure DevOps.</p>
+                    <div class="tech-badges">
+                        <span class="tech-badge">Azure AI</span><span class="tech-badge">FastAPI</span><span class="tech-badge">React.js</span><span class="tech-badge">Docker</span><span class="tech-badge">Azure DevOps</span>
                     </div>
-                    <div class="skill-category">
-                        <h3>ML & Data Science</h3>
-                        <ul>
-                            <li>Deep Learning (PyTorch)</li>
-                            <li>Generative AI / LLMs</li>
-                            <li>Time Series Forecasting</li>
-                            <li>NLP (spaCy, NLTK)</li>
-                            <li>Computer Vision</li>
-                            <li>Big Data (Spark, Databricks)</li>
-                        </ul>
-                    </div>
-                    <div class="skill-category">
-                        <h3>Tools & Platforms</h3>
-                        <ul>
-                            <li>Docker & Kubernetes</li>
-                            <li>MLflow / Kubeflow</li>
-                            <li>Airflow</li>
-                            <li>Azure & AWS</li>
-                            <li>CI/CD (Azure DevOps)</li>
-                            <li>RESTful APIs</li>
-                        </ul>
-                    </div>
+                    <a href="https://github.com/ShivamSapru/CS-GitLab" target="_blank" class="project-link">View Project</a>
                 </div>
-            </section>
+                <div class="project-card">
+                    <h3>Scalable E-Commerce Backend</h3>
+                    <p>Designed a high-performance e-commerce backend using Java, Spring Boot, and a microservices architecture. Deployed on Kubernetes.</p>
+                    <div class="tech-badges">
+                        <span class="tech-badge">Java</span><span class="tech-badge">Spring Boot</span><span class="tech-badge">Kubernetes</span><span class="tech-badge">Redis</span><span class="tech-badge">RabbitMQ</span><span class="tech-badge">Prometheus</span>
+                    </div>
+                    <a href="#" target="_blank" class="project-link" onclick="return false;">View Project</a>
+                </div>
+                <div class="project-card">
+                    <h3>ReneWind (UCD)</h3>
+                    <p>Applied ML models (XGBoost, Random Forest) to reduce generator maintenance costs and delivered production-ready ML pipelines.</p>
+                    <div class="tech-badges">
+                        <span class="tech-badge">Python</span><span class="tech-badge">XGBoost</span><span class="tech-badge">SMOTE</span><span class="tech-badge">Scikit-learn</span><span class="tech-badge">MLOps</span>
+                    </div>
+                    <a href="https://github.com/ShivamSapru/ReneWind" target="_blank" class="project-link">View Project</a>
+                </div>
+            </div>
+        </section>
 
-        </main>
+        <section id="skills">
+            <h2>Skills Matrix</h2>
+            <div class="skills-matrix">
+                <div class="skill-category">
+                    <h3>Languages & Databases</h3>
+                    <ul>
+                        <li>Python</li><li>Java</li><li>Go</li><li>SQL</li><li>PostgreSQL</li><li>MongoDB</li><li>BigQuery</li>
+                    </ul>
+                </div>
+                <div class="skill-category">
+                    <h3>ML & Data Science</h3>
+                    <ul>
+                        <li>Deep Learning</li><li>Generative AI / LLMs</li><li>NLP</li><li>Time Series</li><li>Computer Vision</li><li>PyTorch</li><li>Spark</li><li>Pandas</li>
+                    </ul>
+                </div>
+                <div class="skill-category">
+                    <h3>Tools & Platforms</h3>
+                    <ul>
+                        <li>Cloud (Azure, AWS)</li><li>MLOps (Docker, Kubernetes)</li><li>CI/CD (MLflow, Kubeflow)</li><li>Airflow</li><li>RESTful APIs</li><li>Data Viz (Tableau)</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
 
-        <footer>
-            <p>&copy; 2024 SHIVAM SAPRU | Designed with a futuristic developer aesthetic.</p>
-        </footer>
+        <section id="education">
+            <h2>Education</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <h3>M.Sc. in Computer Science @ University College Dublin</h3>
+                    <span>09/2024 – Present</span>
+                    <p>Key Coursework: Cloud Computing, Big Data Programming, Machine Learning, Deep Learning.</p>
+                </div>
+                 <div class="timeline-item">
+                    <h3>B.Tech. in Computer Science @ Manipal University Jaipur</h3>
+                    <span>08/2020 – 07/2024</span>
+                    <p>Graduated with Honors in Data Science.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2 class="contact-heading">Get In Touch</h2>
+            <p class="contact-cta">I'm actively seeking new opportunities. If you're building something ambitious, I'd love to hear from you.</p>
+            <a href="mailto:shivsapru.ss@gmail.com" class="cta-button">Contact Me</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 SHIVAM SAPRU. All Rights Reserved.</p>
+    </footer>
+
+    <!-- Command Palette (initially hidden) -->
+    <div id="command-palette" hidden>
+        <!-- Command Palette UI will be injected here -->
     </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
