@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,10 +9,11 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div id="particles-js"></div>
     <div class="container">
         <header class="main-header">
             <h1>SHIVAM SAPRU</h1>
-            <p class="subtitle">Software & Machine Learning Engineer</p>
+            <p class="subtitle">Building Scalable, Intelligent Systems</p>
             <div class="contact-links">
                 <a href="mailto:shivsapru.ss@gmail.com">Email</a>
                 <a href="https://linkedin.com/in/shivam-sapru" target="_blank">LinkedIn</a>
@@ -20,63 +22,34 @@
         </header>
 
         <main>
-            <section id="experience">
-                <h2>Experience</h2>
-                <div class="timeline">
-                    <div class="timeline-item">
-                        <h3>Data Scientist Intern @ Mavenir</h3>
-                        <span>Jan 2024 – May 2024</span>
-                        <ul>
-                            <li>Enhanced MLOps workflows, reducing model deployment time by 20%.</li>
-                            <li>Automated ML pipelines for continuous training and deployment using Airflow and AWS S3.</li>
-                            <li>Developed a proof-of-concept for a new anomaly detection system using generative AI.</li>
-                        </ul>
-                    </div>
-                    <div class="timeline-item">
-                        <h3>Machine Learning Intern @ Mavenir</h3>
-                        <span>Jun 2023 – Aug 2023</span>
-                        <ul>
-                            <li>Boosted time-series forecast accuracy by 11% through advanced feature engineering.</li>
-                            <li>Applied PyRCA for root cause analysis of anomalies in network traffic data.</li>
-                            <li>Collaborated to build a data validation pipeline, ensuring data quality for model training.</li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
-
             <section id="projects">
                 <h2>Featured Projects</h2>
                 <div class="project-grid">
-                    <!-- Project 1 -->
                     <div class="project-card">
                         <h3>Subtitle Translator (Microsoft)</h3>
-                        <p>Cloud-native subtitle translation platform using Azure AI, FastAPI, and React, featuring secure authentication and real-time processing.</p>
+                        <p>Cloud-native subtitle translation platform achieving 95% accuracy with Azure AI, FastAPI, and React.</p>
                         <div class="tech-badges">
                             <span class="tech-badge">Azure</span>
                             <span class="tech-badge">FastAPI</span>
-                            <span class="tech-badge">React.js</span>
+                            <span class="tech-badge">React</span>
                             <span class="tech-badge">Docker</span>
-                            <span class="tech-badge">CI/CD</span>
                         </div>
                         <a href="https://github.com/ShivamSapru/CS-GitLab" class="project-link" target="_blank">View on GitHub</a>
                     </div>
-                    <!-- Project 2 -->
                     <div class="project-card">
                         <h3>Scalable E-Commerce Backend</h3>
-                        <p>High-performance backend using a Java & Spring microservices architecture, deployed on Kubernetes with full observability.</p>
-                         <div class="tech-badges">
+                        <p>High-performance backend handling 10,000 requests/sec with a Java & Spring microservices architecture on Kubernetes.</p>
+                        <div class="tech-badges">
                             <span class="tech-badge">Java</span>
                             <span class="tech-badge">Spring Boot</span>
                             <span class="tech-badge">Kubernetes</span>
                             <span class="tech-badge">Redis</span>
-                            <span class="tech-badge">RabbitMQ</span>
                         </div>
                         <a href="#" class="project-link">Private Repo</a>
                     </div>
-                    <!-- Project 3 -->
                     <div class="project-card">
                         <h3>ReneWind (UCD)</h3>
-                        <p>Applied ML models to reduce generator maintenance costs, tackling class imbalance and delivering a production-ready pipeline.</p>
+                        <p>Reduced generator maintenance costs by 25% by applying ML models to predict failures and tackle class imbalance.</p>
                         <div class="tech-badges">
                             <span class="tech-badge">Python</span>
                             <span class="tech-badge">XGBoost</span>
@@ -88,16 +61,26 @@
                 </div>
             </section>
 
-            <section id="education">
-                <h2>Education</h2>
+            <section id="experience">
+                <h2>Experience & Education</h2>
                 <div class="timeline">
                     <div class="timeline-item">
-                        <h3>University College Dublin</h3>
-                        <span>M.S. in Computer Science</span>
+                        <h3>Data Scientist Intern @ Mavenir</h3>
+                        <span>Jan 2024 – May 2024</span>
+                        <p>Enhanced MLOps workflows, reducing model deployment time by 20%.</p>
                     </div>
                     <div class="timeline-item">
-                        <h3>Manipal University Jaipur</h3>
-                        <span>B.Tech. in Computer Science</span>
+                        <h3>Machine Learning Intern @ Mavenir</h3>
+                        <span>Jun 2023 – Aug 2023</span>
+                        <p>Boosted time-series forecast accuracy by 11% through advanced feature engineering.</p>
+                    </div>
+                     <div class="timeline-item">
+                        <h3>M.S. in Computer Science</h3>
+                        <span>University College Dublin</span>
+                    </div>
+                    <div class="timeline-item">
+                        <h3>B.Tech. in Computer Science</h3>
+                        <span>Manipal University Jaipur</span>
                     </div>
                 </div>
             </section>
@@ -119,12 +102,12 @@
                     <div class="skill-category">
                         <h3>ML & Data Science</h3>
                         <ul>
-                            <li>Deep Learning (PyTorch)</li>
-                            <li>Generative AI / LLMs</li>
-                            <li>Time Series Forecasting</li>
-                            <li>NLP (spaCy, NLTK)</li>
+                            <li>PyTorch</li>
+                            <li>Generative AI</li>
+                            <li>Time Series</li>
+                            <li>NLP</li>
                             <li>Computer Vision</li>
-                            <li>Big Data (Spark, Databricks)</li>
+                            <li>Spark</li>
                         </ul>
                     </div>
                     <div class="skill-category">
@@ -134,10 +117,34 @@
                             <li>MLflow / Kubeflow</li>
                             <li>Airflow</li>
                             <li>Azure & AWS</li>
-                            <li>CI/CD (Azure DevOps)</li>
+                            <li>CI/CD</li>
                             <li>RESTful APIs</li>
                         </ul>
                     </div>
+                </div>
+            </section>
+
+            <section id="writing">
+                <h2>Writing</h2>
+                <div class="project-grid">
+                    <div class="project-card">
+                        <h3>Building a Scalable ML Pipeline with Kubeflow</h3>
+                        <p>A deep dive into designing and deploying a production-ready ML pipeline on Kubernetes.</p>
+                        <a href="#" class="project-link">Read More</a>
+                    </div>
+                    <div class="project-card">
+                        <h3>Serverless vs. Kubernetes for APIs</h3>
+                        <p>An analysis of the trade-offs between serverless and container orchestration for modern backends.</p>
+                        <a href="#" class="project-link">Read More</a>
+                    </div>
+                </div>
+            </section>
+
+            <section id="contact">
+                <h2>Get In Touch</h2>
+                <p style="text-align: center; max-width: 600px; margin: auto;">I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team. Feel free to reach out.</p>
+                <div style="text-align: center; margin-top: 30px;">
+                     <a href="mailto:shivsapru.ss@gmail.com" class="project-link">Say Hello</a>
                 </div>
             </section>
 
@@ -147,6 +154,7 @@
             <p>&copy; 2024 SHIVAM SAPRU | Designed with a futuristic developer aesthetic.</p>
         </footer>
     </div>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>

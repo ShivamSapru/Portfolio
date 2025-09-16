@@ -1,85 +1,100 @@
 
-/* General Styles */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Roboto+Mono:wght@400;700&display=swap');
+
+:root {
+    --bg-color: #0A0A0A;
+    --primary-text: #EAEAEA;
+    --secondary-text: #A0A0A0;
+    --accent-blue: #4FC3F7;
+    --accent-violet: #7C4DFF;
+    --accent-teal: #00E5FF;
+    --card-bg: rgba(26, 26, 26, 0.5);
+    --card-border: rgba(255, 255, 255, 0.1);
+    --font-sans: 'Inter', sans-serif;
+    --font-mono: 'Roboto Mono', monospace;
+}
+
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--primary-text);
+    font-family: var(--font-sans);
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background: #f4f4f4;
-    color: #333;
 }
 
 .container {
-    max-width: 960px;
+    max-width: 1200px;
     margin: auto;
     overflow: hidden;
     padding: 0 20px;
 }
 
-/* Header */
 .main-header {
-    background: #333;
-    color: #fff;
-    padding: 2rem 0;
+    padding: 4rem 0;
     text-align: center;
 }
 
 .main-header h1 {
-    margin: 0;
-    font-size: 2.5rem;
+    font-family: var(--font-mono);
+    font-size: 3rem;
     letter-spacing: 2px;
+    color: var(--accent-teal);
+    margin: 0;
 }
 
 .main-header .subtitle {
-    margin: 0;
-    font-size: 1.2rem;
-    color: #ccc;
+    font-size: 1.5rem;
+    color: var(--primary-text);
 }
 
 .contact-links a {
-    color: #fff;
+    color: var(--accent-blue);
     text-decoration: none;
-    margin: 0 10px;
+    margin: 0 15px;
     transition: color 0.3s ease;
+    font-family: var(--font-mono);
 }
 
 .contact-links a:hover {
-    color: #17a2b8;
+    color: var(--accent-violet);
 }
 
-/* Sections */
 section {
-    padding: 20px 0;
-    border-bottom: 1px solid #ddd;
+    padding: 40px 0;
+    border-bottom: 1px solid var(--card-border);
 }
 
 h2 {
+    font-family: var(--font-mono);
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    color: var(--accent-teal);
 }
 
-/* Project Grid */
 .project-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
 }
 
 .project-card {
-    background: #fff;
-    border: 1px solid #ddd;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 10px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    backdrop-filter: blur(10px);
 }
 
 .project-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
 .project-card h3 {
-    margin-top: 0;
+    color: var(--accent-blue);
+    font-family: var(--font-mono);
 }
 
 .tech-badges {
@@ -87,23 +102,23 @@ h2 {
 }
 
 .tech-badge {
-    background: #333;
-    color: #fff;
+    background: var(--accent-violet);
+    color: var(--primary-text);
     padding: 5px 10px;
     border-radius: 5px;
     font-size: 0.8rem;
     margin-right: 5px;
+    font-family: var(--font-mono);
 }
 
 .project-link {
     display: inline-block;
     margin-top: 15px;
-    color: #333;
+    color: var(--accent-teal);
     text-decoration: none;
     font-weight: bold;
 }
 
-/* Timeline */
 .timeline {
     position: relative;
     padding-left: 50px;
@@ -122,14 +137,9 @@ h2 {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background: #333;
+    background: var(--accent-blue);
 }
 
-    width: 100px;
-    margin-bottom: 10px;
-}
-
-/* Skills Matrix */
 .skills-matrix {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -137,8 +147,10 @@ h2 {
 }
 
 .skill-category h3 {
-    border-bottom: 2px solid #333;
+    color: var(--accent-blue);
+    border-bottom: 2px solid var(--accent-violet);
     padding-bottom: 5px;
+    font-family: var(--font-mono);
 }
 
 .skill-category ul {
@@ -146,11 +158,9 @@ h2 {
     padding: 0;
 }
 
-/* Footer */
 footer {
     text-align: center;
     padding: 20px 0;
     margin-top: 20px;
-    background: #333;
-    color: #fff;
+    color: var(--secondary-text);
 }
